@@ -1,4 +1,4 @@
-package simple.day01;
+package simple.day01TwoSum;
 
 /*
     ##两数之和

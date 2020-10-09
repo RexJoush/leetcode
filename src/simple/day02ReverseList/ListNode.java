@@ -1,6 +1,4 @@
-package simple.day02;
-
-import java.util.Random;
+package simple.day02ReverseList;
 
 public class ListNode {
     int val;

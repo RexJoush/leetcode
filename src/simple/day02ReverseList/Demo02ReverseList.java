@@ -1,4 +1,4 @@
-package simple.day02;
+package simple.day02ReverseList;
 
 /**
  * author: joush
