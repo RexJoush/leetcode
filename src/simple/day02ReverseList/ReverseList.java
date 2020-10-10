@@ -1,22 +1,19 @@
 package simple.day02ReverseList;
 
 /**
- * author: joush
- * time: 2020.10.09
+ * @author Joush
+ * @time 2020.10.09
  */
 
 /*
     反转一个单链表。
+    https://leetcode-cn.com/problems/reverse-linked-list/
 
     示例:
-
     输入: 1->2->3->4->5->NULL
     输出: 5->4->3->2->1->NULL
  */
-public class Demo02ReverseList {
-    public static void main(String[] args) {
-
-    }
+public class ReverseList {
 
     public ListNode reverseList(ListNode head) {
 
@@ -38,8 +35,7 @@ public class Demo02ReverseList {
         m = head.next;
 
         while (head.next != null){
-
-            //
+            
             head.next = m.next;
             m.next = t.next;
 
