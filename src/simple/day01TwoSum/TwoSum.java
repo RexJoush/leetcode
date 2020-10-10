@@ -1,5 +1,10 @@
 package simple.day01TwoSum;
 
+/**
+ * @author Joush
+ * @time 2020.10.09
+ */
+
 /*
     两数之和
     https://leetcode-cn.com/problems/two-sum/
@@ -12,11 +17,6 @@ package simple.day01TwoSum;
 
         因为 nums[0] + nums[1] = 2 + 7 = 9
         所以返回 [0, 1]
- */
-
-/**
- * @author Joush
- * @time 2020.10.09
  */
 
 import java.util.HashMap;
