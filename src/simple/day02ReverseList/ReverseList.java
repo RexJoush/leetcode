@@ -35,12 +35,10 @@ public class ReverseList {
         m = head.next;
 
         while (head.next != null){
-            
+
             head.next = m.next;
             m.next = t.next;
-
             t.next = m;
-
             m = head.next;
         }
 
