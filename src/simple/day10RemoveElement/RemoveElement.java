@@ -2,7 +2,7 @@ package simple.day10RemoveElement;
 
 /**
  * @author Joush
- * @time 2020.10.16
+ * @time 2020.10.17
  */
 
 /*
