@@ -29,12 +29,6 @@ import java.util.Arrays;
  */
 public class PlusOne {
 
-    public static void main(String[] args) {
-        int[] digits = new int[]{8,9,9,9};
-
-        System.out.println(Arrays.toString(plusOne2(digits)));
-    }
-
     // 从最后一位非9的数字开始，知道确定 +1 的位置，如果全都是9，那么就新建一个length+1的数组
     public static int[] plusOne2(int[] digits) {
 
