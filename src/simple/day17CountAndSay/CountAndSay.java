@@ -38,7 +38,6 @@ package simple.day17CountAndSay;
  */
 public class CountAndSay {
 
-
     public String countAndSay(int n) {
         // 递归终止条件
         if (n == 1) {
