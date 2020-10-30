@@ -39,6 +39,7 @@ package October20.simple.day17CountAndSay;
 public class CountAndSay {
 
     public String countAndSay(int n) {
+
         // 递归终止条件
         if (n == 1) {
             return "1";
@@ -55,7 +56,7 @@ public class CountAndSay {
             if (i == length) {
                 res.append(i - start).append(str.charAt(start));
                 // 直到start位的字符串和i位的字符串不同，拼接并更新start位
-            } else if (str.charAt(i) != str.charAt(start) ) {
+            } else if (str.charAt(i) != str.charAt(start)) {
                 res.append(i - start).append(str.charAt(start));
                 start = i;
             }
