@@ -47,9 +47,9 @@ public class RemoveElement {
         int temp;
         int i = 0;
         // 从头遍历数组
-        while (i <= result){
+        while (i <= result) {
             // 遇到val，则和最后一个进行交换
-            if (nums[i] == val){
+            if (nums[i] == val) {
                 temp = nums[i];
                 nums[i] = nums[result];
                 nums[result] = temp;
