@@ -26,11 +26,6 @@ package October20.simple.day04ReverseInteger;
  */
 public class ReverseInteger {
 
-    public static void main(String[] args) {
-
-        System.out.println(reverse(-2147483647));
-    }
-
     // 大佬解法
     public int reverse2(int x) {
         // 定义 long类型，防止溢出
