@@ -35,7 +35,6 @@ import java.util.Set;
         输出：false
         解释：链表中没有环。
 
-
  */
 public class LinkedListCycle {
 
@@ -49,10 +48,9 @@ public class LinkedListCycle {
             遍历一遍，到某个节点，就将之放入表中，当出现重复时，就说明出现了环，return true
             遍历完整个表不存在重复遍历时，即没有环
          */
-        while (head != null){
-
+        while (head != null) {
             // hashset 的 add 函数，返回一个 boolean 值，是否添加成功
-            if (!set.add(head)){
+            if (!set.add(head)) {
                 return true;
             }
             head = head.next;
@@ -64,7 +62,7 @@ public class LinkedListCycle {
     public boolean hasCycle2(ListNode head) {
 
         // 空表，或仅有头结点，返回 false
-        if (head == null || head.next == null){
+        if (head == null || head.next == null) {
             return false;
         }
 
@@ -77,9 +75,9 @@ public class LinkedListCycle {
         ListNode slow = head;
         ListNode fast = head.next;
 
-        while (slow != fast){
+        while (slow != fast) {
             // 快指针到了表尾
-            if (fast == null || fast.next == null){
+            if (fast == null || fast.next == null) {
                 return false;
             }
             // 两指针往后移
