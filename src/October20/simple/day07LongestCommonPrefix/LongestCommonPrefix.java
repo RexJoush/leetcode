@@ -24,41 +24,34 @@ package October20.simple.day07LongestCommonPrefix;
  */
 public class LongestCommonPrefix {
 
-    public static void main(String[] args) {
-//        String a = "abcd";
-//        System.out.println(a.charAt(5));
-        String[] strs =  new String[]{"ab","a"};
-        longestCommonPrefix(strs);
-    }
-
     public static String longestCommonPrefix(String[] strs) {
         // 如果空数组，返回空
-        if (strs.length == 0){
+        if (strs.length == 0) {
             return "";
         }
         // 如果为1，返回第一个串
-        if (strs.length == 1){
+        if (strs.length == 1) {
             return strs[0];
         }
 
         String result = "";
         int j = 0;
-        while (true){
+        while (true) {
             //
-            for (int i = 0; i < strs.length - 1; i++){
+            for (int i = 0; i < strs.length - 1; i++) {
 
                 // 如果当前进行到某个最短的字符串的结尾，那么直接返回
-                if (j > (strs[i].length() - 1) || j > (strs[i+1].length() - 1)){
+                if (j > (strs[i].length() - 1) || j > (strs[i + 1].length() - 1)) {
                     return result;
                 }
                 // 如果当前字符串为空，直接返回
-                if (strs[i].length() == 0 ) return result;
+                if (strs[i].length() == 0) return result;
 
                 // 获取当前字符串的j号字母
                 char ch = strs[i].charAt(j);
                 // 获取下一个字符串的j号字母
                 char ch2 = strs[i + 1].charAt(j);
-                if (ch != ch2){
+                if (ch != ch2) {
                     // 当不等时，返回当前的字符串
                     return result;
                 }
