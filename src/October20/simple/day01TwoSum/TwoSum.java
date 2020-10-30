@@ -2,7 +2,7 @@ package October20.simple.day01TwoSum;
 
 /**
  * @author Joush
- * @time 2020.10.09
+ * @time 2020.10.08
  */
 
 /*
