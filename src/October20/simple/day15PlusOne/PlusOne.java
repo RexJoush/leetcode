@@ -21,7 +21,6 @@ package October20.simple.day15PlusOne;
         输入: [4,3,2,1]
         输出: [4,3,2,2]
         解释: 输入数组表示数字 4321。
-你们没有实验室，所以平常你就去图书馆啊
     
  */
 public class PlusOne {
@@ -31,7 +30,7 @@ public class PlusOne {
 
         for (int i = digits.length - 1; i >= 0; i--) {
             // 如果不等于9，加一直接结束
-            if (digits[i] != 9){
+            if (digits[i] != 9) {
                 digits[i]++;
                 return digits;
             }
