@@ -27,14 +27,13 @@ package October20.simple.day22HouseRobber;
  */
 public class HouseRobber {
 
-
-    public int rob2(int[] nums){
+    public int rob2(int[] nums) {
         // 空数组返回0
-        if (nums.length == 0){
+        if (nums.length == 0) {
             return 0;
         }
         // 一个数就返回
-        if (nums.length == 1){
+        if (nums.length == 1) {
             return nums[0];
         }
 
@@ -49,8 +48,8 @@ public class HouseRobber {
             动态规划思想，第 i 天的值，等于 i-2 天的值加上今天得值 和 第 i-1 天的值 两个之间的最大值
             dp[i] = max( dp[i-2] + nums[i], dp[i-1] );
          */
-        for (int i = 2; i < nums.length; i++){
-            resultArr[i] = Math.max(resultArr[i-2] + nums[i], resultArr[i-1]);
+        for (int i = 2; i < nums.length; i++) {
+            resultArr[i] = Math.max(resultArr[i - 2] + nums[i], resultArr[i - 1]);
         }
 
         // 将最后一个值返回
@@ -64,7 +63,7 @@ public class HouseRobber {
         递归解法，会超时
      */
     public int rob(int[] nums) {
-        if (nums.length == 0){
+        if (nums.length == 0) {
             return 0;
         }
         return dp(nums.length - 1, nums);
@@ -72,7 +71,7 @@ public class HouseRobber {
 
 
     // 递归，第 i 天的最大值，但会超时
-    public static int dp(int i,int[] nums){
+    public int dp(int i, int[] nums) {
 
         // 只有一天
         if (i == 0) {
