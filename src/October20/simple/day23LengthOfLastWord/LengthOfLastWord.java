@@ -22,14 +22,6 @@ package October20.simple.day23LengthOfLastWord;
  */
 public class LengthOfLastWord {
 
-    public static void main(String[] args) {
-//        new LengthOfLastWord().lengthOfLastWord("hello world");
-
-        System.out.println("hellworld ".charAt("hellworld ".length() - 1));
-
-    }
-
-
     public int lengthOfLastWord(String s) {
         // 将字符串尾部的空格去掉，测试用例 "a "
         s = s.trim();
