@@ -2,7 +2,7 @@ package October20.simple.day09RomanToIntegerAndSearchInsertPosition;
 
 /**
  * @author Joush
- * @time 2020.1016
+ * @time 2020.10.16
  */
 
 /*
@@ -28,14 +28,7 @@ package October20.simple.day09RomanToIntegerAndSearchInsertPosition;
  */
 public class SearchInsertPosition {
 
-    public static void main(String[] args) {
-        int[] nums = new int[]{1,3};
-        int target = 3;
-
-        System.out.println(searchInsert(nums, target));
-
-    }
-
+    // 遍历法
     public static int searchInsert2(int[] nums, int target) {
         // 空数组直接返回0
         if (nums.length == 0 || target < nums[0]){
@@ -54,6 +47,7 @@ public class SearchInsertPosition {
 
     }
 
+    // 二分法
     public static int searchInsert(int[] nums, int target) {
 
         int left = 0;

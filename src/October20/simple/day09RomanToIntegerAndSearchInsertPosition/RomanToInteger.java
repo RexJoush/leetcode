@@ -4,7 +4,9 @@ package October20.simple.day09RomanToIntegerAndSearchInsertPosition;
  * @author Joush
  * @time 2020.10.16
  */
+
 /*
+
     罗马数字转整数
     https://leetcode-cn.com/problems/roman-to-integer/
 
@@ -50,9 +52,9 @@ package October20.simple.day09RomanToIntegerAndSearchInsertPosition;
  */
 public class RomanToInteger {
 
-    public  int romanToInt(String s) {
+    public int romanToInt(String s) {
         // 空串返回 0
-        if (s.length() == 0){
+        if (s.length() == 0) {
             return 0;
         }
         // 记录结果
@@ -90,27 +92,27 @@ public class RomanToInteger {
         // 减去六种多加的情况
 
         // 每出现一次iv，就多加了2
-        int iv = strCount(s,"IV");
+        int iv = strCount(s, "IV");
         result = result - iv * 2;
 
         // 每出现一次ix，就多加了2
-        int ix = strCount(s,"IX");
+        int ix = strCount(s, "IX");
         result = result - ix * 2;
 
         // 每出现一次xl，就多加了20
-        int xl = strCount(s,"XL");
+        int xl = strCount(s, "XL");
         result = result - xl * 20;
 
         // 每出现一次xc，就多加了20
-        int xc = strCount(s,"XC");
+        int xc = strCount(s, "XC");
         result = result - xc * 20;
 
         // 每出现一次cd，就多加了200
-        int cd = strCount(s,"CD");
+        int cd = strCount(s, "CD");
         result = result - cd * 200;
 
         // 每出现一次cm，就多加了200
-        int cm = strCount(s,"CM");
+        int cm = strCount(s, "CM");
         result = result - cm * 200;
 
         return result;
@@ -118,11 +120,11 @@ public class RomanToInteger {
 
 
     // 查找子串在母串中出现的次数
-    private static int strCount(String str,String sToFind) {
+    private static int strCount(String str, String sToFind) {
         int num = 0;
         while (str.contains(sToFind)) {
             str = str.substring(str.indexOf(sToFind) + sToFind.length());
-            num ++;
+            num++;
         }
         return num;
     }
