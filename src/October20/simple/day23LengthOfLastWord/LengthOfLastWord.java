@@ -27,7 +27,7 @@ public class LengthOfLastWord {
         s = s.trim();
 
         // 如果不包含空格，即只有一个单词，返回字符串长度即可，包含空串
-        if (!s.contains(" ")){
+        if (!s.contains(" ")) {
             return s.length();
         }
 
