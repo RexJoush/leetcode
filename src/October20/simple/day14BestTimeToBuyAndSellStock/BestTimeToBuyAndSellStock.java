@@ -30,23 +30,23 @@ public class BestTimeToBuyAndSellStock {
     // 动态规划 前i天的最大收益 = max{前i-1天的最大收益，第i天的价格-前i-1天中的最小价格}
     public int maxProfit(int[] prices) {
         // 空数组，返回0
-        if (prices.length == 0){
+        if (prices.length == 0) {
             return 0;
         }
 
         int max = 0;
         int bottom = prices[0];
         int i = 1;
-        while (i < prices.length){
+        while (i < prices.length) {
 
             // 当前天的收益
             int nowProfit = prices[i] - bottom;
             // 如果当前的收益大于 max，就更新 max
-            if (nowProfit > max){
+            if (nowProfit > max) {
                 max = nowProfit;
             }
             // 记录当前的最小值
-            if (bottom > prices[i]){
+            if (bottom > prices[i]) {
                 bottom = prices[i];
             }
             i++;
