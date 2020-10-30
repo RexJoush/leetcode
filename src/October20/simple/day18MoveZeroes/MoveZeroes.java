@@ -19,21 +19,15 @@ package October20.simple.day18MoveZeroes;
  */
 public class MoveZeroes {
 
-    public static void main(String[] args) {
-        int[] nums = new int[]{0,1,0,3,12};
-
-        moveZeroes(nums);
-    }
-
-    public static void moveZeroes(int[] nums) {
+    public void moveZeroes(int[] nums) {
 
         int i = 0;
         int index = 0;
 
-        while (i < nums.length){
-            if (nums[i] == 0){
+        while (i < nums.length) {
+            if (nums[i] == 0) {
                 index = i;
-                while (nums[index] == 0 && index < nums.length - 1){
+                while (nums[index] == 0 && index < nums.length - 1) {
                     index++;
                 }
                 nums[i] = nums[index];
@@ -41,7 +35,6 @@ public class MoveZeroes {
             }
             i++;
         }
-
     }
 
 }
