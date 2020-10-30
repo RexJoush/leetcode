@@ -47,9 +47,8 @@ public class MergeSortedArray {
         }
 
         // 最后将剩下的放到前面
-
-        //下面这个while没必要写，因为经过上面的while循环后无论是 i还是j 为0，这时候index 和i都是相等的。
-        //while(i >= 0) A[index--] = A[i--];
+        // 下面这个while没必要写，因为经过上面的while循环后无论是 i还是j 为0，这时候index 和i都是相等的。
+        // while(i >= 0) A[index--] = A[i--];
         while (j >= 0)
             nums1[index--] = nums2[j--];
 

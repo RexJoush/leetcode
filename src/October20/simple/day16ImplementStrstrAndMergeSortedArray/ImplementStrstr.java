@@ -27,12 +27,12 @@ package October20.simple.day16ImplementStrstrAndMergeSortedArray;
 public class ImplementStrstr {
 
     // 使用 KMP 模式匹配，难度较大
-    public static int strStr(String haystack, String needle) {
+    public int strStr(String haystack, String needle) {
         return haystack.indexOf(needle);
     }
 
     // 系统库函数调用
-    public static int strStr2(String haystack, String needle) {
+    public int strStr2(String haystack, String needle) {
         return haystack.indexOf(needle);
     }
 
