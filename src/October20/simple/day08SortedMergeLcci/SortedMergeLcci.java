@@ -27,25 +27,25 @@ public class SortedMergeLcci {
     public static void merge(int[] A, int m, int[] B, int n) {
 
         // 如果 B 空数组，直接返回
-        if (n == 0){
+        if (n == 0) {
             return;
         }
         // 如果 A 空数组，则将 B 复制到 A 中，返回
-        if (m == 0){
+        if (m == 0) {
             if (n >= 0)
                 System.arraycopy(B, 0, A, 0, n);
             return;
         }
 
         // 插入排序的思想，将 B 的每一个值插入到A中，最后返回 A
-        for (int i = 0; i < n; i++){
+        for (int i = 0; i < n; i++) {
             int j = m - 1;
 
-            while (j >= 0 && A[j] > B[i]){
-                A[j+1] = A[j];
+            while (j >= 0 && A[j] > B[i]) {
+                A[j + 1] = A[j];
                 j--;
             }
-            A[j+1] = B[i];
+            A[j + 1] = B[i];
             m++;
         }
     }
