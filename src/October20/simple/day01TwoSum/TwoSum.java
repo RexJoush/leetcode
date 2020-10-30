@@ -25,13 +25,13 @@ import java.util.Map;
 public class TwoSum {
 
     // 简单的暴力查找，找出所有的两两组合，直到找到为止
-    public int[] twoSum(int[] nums, int target){
+    public int[] twoSum(int[] nums, int target) {
         int[] arr = new int[2];
 
-        for (int i = 0; i < nums.length; i++){
+        for (int i = 0; i < nums.length; i++) {
             arr[0] = i;
-            for (int j = i + 1; j < nums.length; j++){
-                if (nums[i] + nums[j] == target){
+            for (int j = i + 1; j < nums.length; j++) {
+                if (nums[i] + nums[j] == target) {
                     arr[1] = j;
                     return arr;
                 }
@@ -51,15 +51,15 @@ public class TwoSum {
 
         Map<Integer, Integer> map = new HashMap<>();
 
-        for (int i = 0; i < nums.length; i++){
+        for (int i = 0; i < nums.length; i++) {
 
             // 如果表中包含了当前 x 对应的 target - x
-            if (map.containsKey(target - nums[i])){
+            if (map.containsKey(target - nums[i])) {
                 return new int[]{map.get(target - nums[i]), i}; // 返回当前 key 的值 和 i 值
             }
 
             // 放进hash表中
-            map.put(nums[i],i);
+            map.put(nums[i], i);
         }
 
         return new int[0];
