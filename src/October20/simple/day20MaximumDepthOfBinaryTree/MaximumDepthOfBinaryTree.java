@@ -31,7 +31,7 @@ public class MaximumDepthOfBinaryTree {
     public int maxDepth(TreeNode root) {
 
         // 递归找左右子树的最高子树，深度优先搜索
-        return root == null? 0: Math.max(maxDepth(root.left), maxDepth(root.right)) + 1;
+        return root == null ? 0 : Math.max(maxDepth(root.left), maxDepth(root.right)) + 1;
 
     }
 
