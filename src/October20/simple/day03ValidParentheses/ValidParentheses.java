@@ -34,6 +34,7 @@ import java.util.Stack;
         输出: true
  */
 public class ValidParentheses {
+
     public boolean isValid(String s) {
 
         // 将字符串变为字符数组
@@ -43,16 +44,16 @@ public class ValidParentheses {
         Stack<Character> stack = new Stack<>();
 
         // 遍历字符串
-        for (int i = 0; i < chars.length; i++){
+        for (int i = 0; i < chars.length; i++) {
 
             // 遇到左括号即入栈
-            if (chars[i] == '(' || chars[i] == '[' || chars[i] == '{'){
+            if (chars[i] == '(' || chars[i] == '[' || chars[i] == '{') {
                 stack.push(chars[i]);
             }
             // 否则进行判断
             else {
                 // 如果遇到右括号，但栈空，直接返回false
-                if (stack.empty()){
+                if (stack.empty()) {
                     return false;
                 }
 
@@ -60,20 +61,20 @@ public class ValidParentheses {
                 char ch = stack.pop();
 
                 // 如果当前字符是 ')'
-                if (chars[i] == ')'){
-                    if (ch != '('){
+                if (chars[i] == ')') {
+                    if (ch != '(') {
                         return false;
                     }
                 }
                 // 如果当前字符是 ']'
-                else if (ch == ']'){
-                    if (stack.pop() != '['){
+                else if (ch == ']') {
+                    if (stack.pop() != '[') {
                         return false;
                     }
                 }
                 // 如果当前字符是 '}'
                 else {
-                    if (ch != '{'){
+                    if (ch != '{') {
                         return false;
                     }
                 }
