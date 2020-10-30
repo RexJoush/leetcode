@@ -18,7 +18,7 @@ public class ReverseList {
     public ListNode reverseList(ListNode head) {
 
         // 如果为空链表或者单个节点链表，那么直接返回head
-        if (head == null || head.next == null){
+        if (head == null || head.next == null) {
             return head;
         }
 
@@ -34,7 +34,7 @@ public class ReverseList {
         // 工作节点指向第二个节点
         m = head.next;
 
-        while (head.next != null){
+        while (head.next != null) {
 
             head.next = m.next;
             m.next = t.next;
