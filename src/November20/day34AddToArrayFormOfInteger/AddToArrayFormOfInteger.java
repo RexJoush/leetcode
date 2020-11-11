@@ -43,14 +43,6 @@ import java.util.Stack;
  */
 public class AddToArrayFormOfInteger {
 
-    public static void main(String[] args) {
-        int [] A = new int[]{9,9,9,9,9,9,9,9,9,9};
-        int K = 1;
-
-        List<Integer> integers = new AddToArrayFormOfInteger().addToArrayForm(A, K);
-        System.out.println(integers);
-    }
-
 
     public List<Integer> addToArrayForm(int[] A, int K) {
 
