@@ -28,21 +28,6 @@ package December20.day56CheckStraightLine;
  */
 public class CheckStraightLine {
 
-    public static void main(String[] args) {
-        int[][] coordinates = new int[][]{{1,2},{2,3},{3,4},{4,5},{5,6},{6,7}};
-        int[][] coordinates2 = new int[][]{{0,0},{0,1},{0,-1}};
-
-//        System.out.println(coordinates[0][0]); // 1
-//        System.out.println(coordinates[0][1]); // 1
-//        System.out.println(coordinates[1][0]); // 2
-//        System.out.println(coordinates[1][1]); // 2
-//        System.out.println(coordinates[2][0]); // 3
-//        System.out.println(coordinates[2][1]); // 4
-
-        System.out.println(new CheckStraightLine().checkStraightLine(coordinates2));
-
-    }
-
     public boolean checkStraightLine(int[][] coordinates) {
 
         // 两个点就直接返回 ture
