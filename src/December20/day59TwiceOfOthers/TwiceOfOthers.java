@@ -55,6 +55,7 @@ public class TwiceOfOthers {
                 return -1;
             }
         }
+        
         // 满足情况，返回下标
         return index;
     }
