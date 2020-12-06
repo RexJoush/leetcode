@@ -45,7 +45,7 @@ public class TrisectionNums {
         }
 
         // 如果和不能被3除尽，则直接返回 false
-        if (sum % 3 != 0){
+        if (sum % 3 != 0) {
             return false;
         }
 
@@ -69,7 +69,7 @@ public class TrisectionNums {
             当出现 target == 0 时，任意个数个子组合均可表示 0，所以只要大于4个即可
             至于为什么此处大于4，因为 target == 0，所以第一个数进入循环时，因为 sum 初始值为0，所以 count 多记了一次，故写大于 4
          */
-        if (count > 4 && target == 0){
+        if (count > 4 && target == 0) {
             return true;
         }
 
