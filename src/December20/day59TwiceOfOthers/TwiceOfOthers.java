@@ -31,7 +31,7 @@ package December20.day59TwiceOfOthers;
 public class TwiceOfOthers {
 
     /*
-        暴力法，第一遍查找最大的元素，然后第二遍挨个比较
+        暴力法，第一遍查找最大的元素，然后第二遍  挨个比较
      */
     public int dominantIndex(int[] nums) {
         /*
