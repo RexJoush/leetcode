@@ -28,10 +28,6 @@ package November20.day50FirstBadVersion;
   boolean isBadVersion(int version); */
 public class FirstBadVersion extends VersionControl{
 
-    public static void main(String[] args) {
-        System.out.println(new FirstBadVersion().BadVersion(149134314));
-    }
-
     public int BadVersion(int n) {
 
         int l = 1;
