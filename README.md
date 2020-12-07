@@ -247,7 +247,7 @@
     - 解答: <https://github.com/RexJoush/leetcode/blob/master/src/December20/day60WordPattern/WordPattern.java>
 
 * **day 61 最富有客户的资产总量**
-    - 题目: <https://leetcode-cn.com/problems/richest-customer-wealth/submissions/>
+    - 题目: <https://leetcode-cn.com/problems/richest-customer-wealth/>
     - 解答: <https://github.com/RexJoush/leetcode/blob/master/src/December20/day61RichestCustomerWealth/RichestCustomerWealth.java>
 
 
