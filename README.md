@@ -254,11 +254,11 @@
 <a href="https://leetcode-cn.com/problems/goal-parser-interpretation/">题目</a>
 <a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day62GoalParserInterpretation/GoalParserInterpretation.java">解答</a>
 
-* day 63 一维数组的动态和
+* day 63 一维数组的动态和  
 <a href="https://leetcode-cn.com/problems/running-sum-of-1d-array/">题目</a>
 <a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day63RunningSumOfArray/RunningSumOfArray.java">解答</a>
 
-* day 64 左旋转字符串
+* day 64 左旋转字符串  
 <a href="https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/">题目</a>
 <a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day64LeftRotationString/LeftRotationString.java">解答</a>
 
