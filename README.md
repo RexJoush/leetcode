@@ -262,4 +262,8 @@
 <a href="https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/">题目</a>
 <a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day64LeftRotationString/LeftRotationString.java">解答</a>
 
+* day 65 好数对的数目  
+<a href="https://leetcode-cn.com/problems/number-of-good-pairs/">题目</a>
+<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day64NumberOfGoodPairs/NumberOfGoodPairs.java">解答</a>
+
 
