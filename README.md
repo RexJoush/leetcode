@@ -264,6 +264,10 @@
 
 * day 65 好数对的数目  
 <a href="https://leetcode-cn.com/problems/number-of-good-pairs/">题目</a>
-<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day64NumberOfGoodPairs/NumberOfGoodPairs.java">解答</a>
+<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day65NumberOfGoodPairs/NumberOfGoodPairs.java">解答</a>
+
+* day 66 重新排列数组  
+<a href="https://leetcode-cn.com/problems/shuffle-the-array/">题目</a>
+<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day66ShuffleTheArray/ShuffleTheArray.java">解答</a>
 
 
