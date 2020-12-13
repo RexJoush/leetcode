@@ -37,6 +37,13 @@ import java.util.Set;
 
  */
 public class CountTheNumberOfConsistentStrings {
+
+    /*
+        按照题意进行遍历即可
+        结果
+            18 ms, 100.00%
+            39 MB, 100.00%
+     */
     public int countConsistentStrings(String allowed, String[] words) {
         int result = 0;
 
