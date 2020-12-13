@@ -270,4 +270,8 @@
 <a href="https://leetcode-cn.com/problems/shuffle-the-array/">题目</a>
 <a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day66ShuffleTheArray/ShuffleTheArray.java">解答</a>
 
+* day 67 统计一致字符串的数目  
+<a href="https://leetcode-cn.com/problems/count-the-number-of-consistent-strings/">题目</a>
+<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day67CountTheNumberOfConsistentStrings/CountTheNumberOfConsistentStrings.java">解答</a>
+
 
