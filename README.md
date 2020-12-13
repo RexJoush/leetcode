@@ -1,7 +1,10 @@
 # Simple
 
 ## 2020 Oct.
-
+|天数|题目|题目链接|解答连接|
+|:--|:--|:--|:--|
+|001|两数之和|<a href="https://leetcode-cn.com/problems/two-sum/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/October20/day01TwoSum/TwoSum.java">解答</a>|
+|002|反转一个单链表|<a href="https://leetcode-cn.com/problems/reverse-linked-list/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/October20/day02ReverseList/ReverseList.java">解答</a>|
 * day 01 两数之和  
 <a href="https://leetcode-cn.com/problems/two-sum/">题目</a>
 <a href="https://github.com/RexJoush/leetcode/blob/master/src/October20/day01TwoSum/TwoSum.java">解答</a>
