@@ -79,4 +79,4 @@
 |065|好数对的数目|<a href="https://leetcode-cn.com/problems/number-of-good-pairs/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day65NumberOfGoodPairs/NumberOfGoodPairs.java">解答</a>|
 |066|重新排列数组|<a href="https://leetcode-cn.com/problems/shuffle-the-array/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day66ShuffleTheArray/ShuffleTheArray.java">解答</a>|
 |067|统计一致字符串的数目|<a href="https://leetcode-cn.com/problems/count-the-number-of-consistent-strings/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day67CountTheNumberOfConsistentStrings/CountTheNumberOfConsistentStrings.java">解答</a>|
-
+|068|拥有最多糖果的孩子|<a href="https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day68MostCandies/MostCandies.java">解答</a>|
