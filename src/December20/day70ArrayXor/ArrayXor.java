@@ -36,7 +36,7 @@ public class ArrayXor {
         写出数组，然后异或操作即可
         结果
             0 ms, 100.00%
-            35.2 MB, 92.10%
+            35.2 MB, 74.45%
      */
     public int xorOperation(int n, int start) {
 
