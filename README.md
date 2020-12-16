@@ -81,3 +81,4 @@
 |067|统计一致字符串的数目|<a href="https://leetcode-cn.com/problems/count-the-number-of-consistent-strings/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day67CountTheNumberOfConsistentStrings/CountTheNumberOfConsistentStrings.java">解答</a>|
 |068|拥有最多糖果的孩子|<a href="https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day68MostCandies/MostCandies.java">解答</a>|
 |069|宝石与石头|<a href="https://leetcode-cn.com/problems/jewels-and-stones/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day69JewelsAndStones/JewelsAndStones.java">解答</a>|
+|070|数组异或操作|<a href="https://leetcode-cn.com/problems/xor-operation-in-an-array/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day70ArrayXor/ArrayXor.java">解答</a>|
