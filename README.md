@@ -82,3 +82,4 @@
 |068|拥有最多糖果的孩子|<a href="https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day68MostCandies/MostCandies.java">解答</a>|
 |069|宝石与石头|<a href="https://leetcode-cn.com/problems/jewels-and-stones/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day69JewelsAndStones/JewelsAndStones.java">解答</a>|
 |070|数组异或操作|<a href="https://leetcode-cn.com/problems/xor-operation-in-an-array/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day70ArrayXor/ArrayXor.java">解答</a>|
+|071|猜数字|<a href="https://leetcode-cn.com/problems/guess-numbers/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day71GuessNumbers/GuessNumbers.java">解答</a>|
