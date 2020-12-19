@@ -84,3 +84,4 @@
 |070|数组异或操作|<a href="https://leetcode-cn.com/problems/xor-operation-in-an-array/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day70ArrayXor/ArrayXor.java">解答</a>|
 |071|猜数字|<a href="https://leetcode-cn.com/problems/guess-numbers/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day71GuessNumbers/GuessNumbers.java">解答</a>|
 |072|检查两个字符串数组是否相等|<a href="https://leetcode-cn.com/problems/check-if-two-string-arrays-are-equivalent/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day72StringArraysAreEquivalent/StringArraysAreEquivalent.java">解答</a>|
+|073|删除链表中的节点|<a href="subtract-the-product-and-sum-of-digits-of-an-integer">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day73SubtractProductSumDigits/SubtractProductSumDigits.java">解答</a>|
