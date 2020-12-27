@@ -1,7 +1,5 @@
 package December20.day81DetermineStringHalvesAreAlike;
 
-import java.util.Locale;
-
 /**
  * @author Joush
  * @time 2020.12.27
@@ -46,10 +44,12 @@ public class DetermineStringHalvesAreAlike {
             37 MB, 100.00%
      */
     public boolean halvesAreAlike(String s) {
+
         char[] chars = s.toLowerCase().toCharArray();
         int length = chars.length - 1;
         int l = 0;
         int r = 0;
+
         for (int i = 0; i < s.length() / 2; i++){
             if (chars[i] == 'a' || chars[i] == 'e' || chars[i] == 'i' || chars[i] == 'o' || chars[i] == 'u'){
                 l++;
