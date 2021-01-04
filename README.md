@@ -98,3 +98,8 @@
 |084|所有奇数长度子数组的和|<a href="https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day84SumOfAllOddLengthSubarray/SumOfAllOddLengthSubarray.java">解答</a>|
 |085|在既定时间做作业的学生人数|<a href="https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day85NumberOfDoingHomework/NumberOfDoingHomework.java">解答</a>|
 
+## 2021 Jan.
+
+|天数|题目|题目链接|解答连接|
+|:--|:--|:--|:--|
+|086|比赛中的配对次数|<a href="https://leetcode-cn.com/problems/count-of-matches-in-tournament/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day86CountOfMatches/CountOfMatches.java">解答</a>|
