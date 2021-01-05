@@ -39,7 +39,7 @@ package January21.day88ShuffleString;
         indices 的所有的值都是唯一的（也就是说，indices 是整数 0 到 n - 1 形成的一组排列）。
 
  */
-public class Solution {
+public class ShuffleString {
 
     /*
         创建结果数组，遍历即可
