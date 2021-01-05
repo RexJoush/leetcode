@@ -103,3 +103,4 @@
 |天数|题目|题目链接|解答连接|
 |:--|:--|:--|:--|
 |086|比赛中的配对次数|<a href="https://leetcode-cn.com/problems/count-of-matches-in-tournament/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day86CountOfMatches/CountOfMatches.java">解答</a>|
+|087|最小高度树|<a href="https://leetcode-cn.com/problems/minimum-height-tree-lcci/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day87MinimumHeightTree/MinimumHeightTree.java">解答</a>|
