@@ -32,6 +32,12 @@ package January21.day91MergeTwoBinaryTrees;
 
  */
 public class MergeTwoBinaryTrees {
+    /*
+        递归合并即可，注意是新创建一棵树，不是用原来的树
+        结果：
+            0 ms, 100.00%
+            38.5 MB, 95.12%
+     */
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
 
         // t1 空就返回 t2
