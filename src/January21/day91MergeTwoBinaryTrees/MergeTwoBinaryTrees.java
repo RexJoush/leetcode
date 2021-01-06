@@ -50,7 +50,7 @@ public class MergeTwoBinaryTrees {
         }
         // 都不空，建立新节点
         TreeNode root = new TreeNode(t1.val + t2.val);
-        // 地方志合并子节点
+        // 递归合并子节点
         root.left = mergeTrees(t1.left, t2.left);
         root.right = mergeTrees(t1.right, t2.right);
 
