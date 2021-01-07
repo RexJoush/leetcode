@@ -108,3 +108,4 @@
 |089|分割平衡字符串|<a href="https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day89SplitStringInBalanced/SplitStringInBalanced.java">解答</a>|
 |090|翻转二叉树|<a href="https://leetcode-cn.com/problems/invert-binary-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day90InvertBinaryTree/InvertBinaryTree.java">解答</a>|
 |091|合并二叉树|<a href="https://leetcode-cn.com/problems/merge-two-binary-trees/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day91MergeTwoBinaryTrees/MergeTwoBinaryTrees.java">解答</a>|
+|092|链表中倒数第k个节点|<a href="https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day92ReciprocalNode/ReciprocalNode.java">解答</a>|
