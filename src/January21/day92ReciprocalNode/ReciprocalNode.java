@@ -2,7 +2,7 @@ package January21.day92ReciprocalNode;
 
 /**
  * @author Joush
- * @time 2020.01.07
+ * @time 2021.01.07
  */
 
 /*
