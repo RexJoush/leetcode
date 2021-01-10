@@ -111,3 +111,4 @@
 |092|链表中倒数第k个节点|<a href="https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day92ReciprocalNode/ReciprocalNode.java">解答</a>|
 |093|打印从1到最大的n位数|<a href="https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day93PrintNumber/PrintNumber.java">解答</a>|
 |094|汉明距离|<a href="https://leetcode-cn.com/problems/hamming-distance/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day94HammingDistance/HammingDistance.java">解答</a>|
+|095|汇总区间|<a href="https://leetcode-cn.com/problems/summary-ranges/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day95SummaryRanges/SummaryRanges.java">解答</a>|
