@@ -112,3 +112,4 @@
 |093|打印从1到最大的n位数|<a href="https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day93PrintNumber/PrintNumber.java">解答</a>|
 |094|汉明距离|<a href="https://leetcode-cn.com/problems/hamming-distance/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day94HammingDistance/HammingDistance.java">解答</a>|
 |095|汇总区间|<a href="https://leetcode-cn.com/problems/summary-ranges/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day95SummaryRanges/SummaryRanges.java">解答</a>|
+|096|统计好三元组|<a href="https://leetcode-cn.com/problems/count-good-triplets/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day96CountGoodTriplets/CountGoodTriplets.java">解答</a>|
