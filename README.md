@@ -1,7 +1,7 @@
 # Simple
 
 ## 2020 Oct.
-|天数|题目|题目链接|解答连接|
+|天数|题目|题目链接|解答链接|
 |:--|:--|:--|:--|
 |001|两数之和|<a href="https://leetcode-cn.com/problems/two-sum/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/October20/day01TwoSum/TwoSum.java">解答</a>|
 |002|反转一个单链表|<a href="https://leetcode-cn.com/problems/reverse-linked-list/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/October20/day02ReverseList/ReverseList.java">解答</a>|
@@ -29,7 +29,7 @@
 |024|多数元素|<a href="https://leetcode-cn.com/problems/majority-element/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/October20/day24MajorityElement/MajorityElement.java">解答</a>|
 
 ## 2020 Nov.
-|天数|题目|题目链接|解答连接|
+|天数|题目|题目链接|解答链接|
 |:--|:--|:--|:--|
 |025|和为s的连续正数序列|<a href="https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/November20/day25SequenceOfContinuousSum/SequenceOfContinuousSum.java">解答</a>|
 |026|移除链表元素|<a href="https://leetcode-cn.com/problems/remove-linked-list-elements/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/November20/day26RemoveLinkedListElements/RemoveLinkedListElements.java">解答</a>|
@@ -64,7 +64,7 @@
 
 ## 2020 Dec.
 
-|天数|题目|题目链接|解答连接|
+|天数|题目|题目链接|解答链接|
 |:--|:--|:--|:--|
 |055|存在重复元素 II|<a href="https://leetcode-cn.com/problems/contains-duplicate-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day55ContainsDuplicate/ContainsDuplicate.java">解答</a>|
 |056|缀点成线|<a href="https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/December20/day56CheckStraightLine/CheckStraightLine.java">解答</a>|
@@ -100,7 +100,7 @@
 
 ## 2021 Jan.
 
- |天数|题目|题目链接|解答连接|
+ |天数|题目|题目链接|解答链接|
 |:--|:--|:--|:--|
 |086|比赛中的配对次数|<a href="https://leetcode-cn.com/problems/count-of-matches-in-tournament/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day86CountOfMatches/CountOfMatches.java">解答</a>|
 |087|最小高度树|<a href="https://leetcode-cn.com/problems/minimum-height-tree-lcci/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day87MinimumHeightTree/MinimumHeightTree.java">解答</a>|
@@ -114,3 +114,4 @@
 |095|汇总区间|<a href="https://leetcode-cn.com/problems/summary-ranges/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day95SummaryRanges/SummaryRanges.java">解答</a>|
 |096|统计好三元组|<a href="https://leetcode-cn.com/problems/count-good-triplets/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day96CountGoodTriplets/CountGoodTriplets.java">解答</a>|
 |097|旅行终点站|<a href="https://leetcode-cn.com/problems/destination-city/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day97DestinationCity/DestinationCity.java">解答</a>|
+|098|机器人能否返回原点|<a href="https://leetcode-cn.com/problems/robot-return-to-origin/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day98RobotReturnToOriginy/RobotReturnToOrigin.java">解答</a>|
