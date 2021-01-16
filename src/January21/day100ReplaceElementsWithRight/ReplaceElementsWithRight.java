@@ -2,7 +2,7 @@ package January21.day100ReplaceElementsWithRight;
 
 /**
  * @author Joush
- * @time 2021.01.16
+ * @time 2021.01.15
  */
 
 /*
