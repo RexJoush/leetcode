@@ -120,3 +120,4 @@
 |0101|数组中两元素的最大乘积|<a href="https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day101MaximumProductTwoElements/MaximumProductTwoElements.java">解答</a>|
 |0102|唯一摩尔斯密码词|<a href="https://leetcode-cn.com/problems/unique-morse-code-words/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day102UniqueMorseCodeWords/UniqueMorseCodeWords.java">解答</a>|
 |0103|转换成小写字母|<a href="https://leetcode-cn.com/problems/to-lower-case/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day103ToLowerCase/ToLowerCase.java">解答</a>|
+|0104|翻转图像|<a href="https://leetcode-cn.com/problems/flipping-an-image/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day104FlippingAnImage/FlippingAnImage.java">解答</a>|
