@@ -121,3 +121,7 @@
 |0102|唯一摩尔斯密码词|<a href="https://leetcode-cn.com/problems/unique-morse-code-words/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day102UniqueMorseCodeWords/UniqueMorseCodeWords.java">解答</a>|
 |0103|转换成小写字母|<a href="https://leetcode-cn.com/problems/to-lower-case/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day103ToLowerCase/ToLowerCase.java">解答</a>|
 |0104|翻转图像|<a href="https://leetcode-cn.com/problems/flipping-an-image/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day104FlippingAnImage/FlippingAnImage.java">解答</a>|
+|0105|6 和 9 组成的最大数字|<a href="https://leetcode-cn.com/problems/maximum-69-number/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day105MaximumSixNineNumber/MaximumSixNineNumber.java">解答</a>|
+|0106|二进制求和|<a href="https://leetcode-cn.com/problems/add-binary/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day106AddBinary/AddBinary.java">解答</a>|
+|0107|x 的平方根|<a href="https://leetcode-cn.com/problems/sqrtx/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day107SqrtX/SqrtX.java">解答</a>|
+|0108|删除排序链表中的重复元素|<a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/January21/day108RemoveDuplicatesSortedList/RemoveDuplicatesSortedList.java">解答</a>|
