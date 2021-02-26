@@ -2,7 +2,7 @@ package y2021.m02February.day120ExcelSheetColumnTitle;
 
 /**
  * @author Joush
- * @time 2021.02.21
+ * @time 2021.02.04
  */
 
 /*
@@ -32,16 +32,26 @@ package y2021.m02February.day120ExcelSheetColumnTitle;
  */
 public class ExcelSheetColumnTitle {
 
-    public static void main(String[] args) {
-
-    }
-
-
+    /*
+        Excel 中的相当于26进制，将 10 进制转换为 26 进制即可
+        结果：
+            0 ms, 100.00%
+            35.7 MB, 35.08%
+     */
     public String convertToTitle(int n) {
-        StringBuilder result = new StringBuilder();
-        while (n / 26 != 0){
-            // char c = char ((n % 26) - int('A'));
-////            char ( - 'A');
+        StringBuilder sb = new StringBuilder();
+
+        while (n > 0) {
+            // 取余，拼接，相当于除 k 取余法进制转换
+            int c = n % 26;
+            // 将 26 的特殊情况除去，正好除尽时，应拼接 Z
+            if (c == 0) {
+                c = 26;
+                n -= 1;
+            }
+            sb.insert(0, (char) ('A' + c - 1));
+            n /= 26;
         }
+        return sb.toString();
     }
 }
