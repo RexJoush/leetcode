@@ -143,3 +143,6 @@
 |0119|两数之和 II - 输入有序数组|<a href="https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day119TwoSumSortedArray/TwoSumSortedArray.java">解答</a>|
 |0120|Excel表列名称|<a href="https://leetcode-cn.com/problems/excel-sheet-column-title/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day120ExcelSheetColumnTitle/ExcelSheetColumnTitle.java">解答</a>|
 |0121|Excel表列序号|<a href="https://leetcode-cn.com/problems/excel-sheet-column-number/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day121ExcelSheetColumnNumber/ExcelSheetColumnNumber.java">解答</a>|
+|0122|颠倒二进制位|<a href="https://leetcode-cn.com/problems/reverse-bits/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day122ReverseBits/ReverseBits.java">解答</a>|
+|0123|位1的个数|<a href="https://leetcode-cn.com/problems/number-of-1-bits/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day123NumberOfOneBits/NumberOfOneBits.java">解答</a>|
+|0124|快乐数|<a href="https://leetcode-cn.com/problems/HappyNumber/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day124HappyNumber/HappyNumber.java">解答</a>|
