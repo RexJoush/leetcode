@@ -146,3 +146,5 @@
 |0122|颠倒二进制位|<a href="https://leetcode-cn.com/problems/reverse-bits/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day122ReverseBits/ReverseBits.java">解答</a>|
 |0123|位1的个数|<a href="https://leetcode-cn.com/problems/number-of-1-bits/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day123NumberOfOneBits/NumberOfOneBits.java">解答</a>|
 |0124|快乐数|<a href="https://leetcode-cn.com/problems/HappyNumber/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day124HappyNumber/HappyNumber.java">解答</a>|
+|0125|计数质数|<a href="https://leetcode-cn.com/problems/CountPrimes/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day125CountPrimes/CountPrimes.java">解答</a>|
+|0126|同构字符串|<a href="https://leetcode-cn.com/problems/isomorphic-strings/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day126IsomorphicStrings/IsomorphicStrings.java">解答</a>|
