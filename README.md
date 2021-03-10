@@ -148,3 +148,13 @@
 |0124|快乐数|<a href="https://leetcode-cn.com/problems/HappyNumber/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day124HappyNumber/HappyNumber.java">解答</a>|
 |0125|计数质数|<a href="https://leetcode-cn.com/problems/CountPrimes/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day125CountPrimes/CountPrimes.java">解答</a>|
 |0126|同构字符串|<a href="https://leetcode-cn.com/problems/isomorphic-strings/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day126IsomorphicStrings/IsomorphicStrings.java">解答</a>|
+|0127|2的幂|<a href="https://leetcode-cn.com/problems/power-of-two/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day127PowerOfTwo/PowerOfTwo.java">解答</a>|
+|0128|二叉搜索树的最近公共祖先|<a href="https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day128LowestCommonAncestor/LowestCommonAncestor.java">解答</a>|
+|0129|有效的字母异位词|<a href="https://leetcode-cn.com/problems/valid-anagram/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day129ValidAnagram/ValidAnagram.java">解答</a>|
+|0130|二叉树的所有路径|<a href="https://leetcode-cn.com/problems/binary-tree-paths/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day130BinaryTreePaths/BinaryTreePaths.java">解答</a>|
+|0131|各位相加|<a href="https://leetcode-cn.com/problems/add-digits/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day131AddDigits/AddDigits.java">解答</a>|
+|0132|丑数|<a href="https://leetcode-cn.com/problems/ugly-number/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day132UglyNumber/UglyNumber.java">解答</a>|
+|0133|丢失的数字|<a href="https://leetcode-cn.com/problems/missing-number/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day133MissingNumber/MissingNumber.java">解答</a>|
+|0134|Nim 游戏|<a href="https://leetcode-cn.com/problems/nim-game/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day134NimGame/NimGame.java">解答</a>|
+|0135|3的幂|<a href="https://leetcode-cn.com/problems/power-of-three/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day135PowerOfThree/PowerOfThree.java">解答</a>|
+|0136|4的幂|<a href="https://leetcode-cn.com/problems/power-of-four/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day136PowerOfFour/PowerOfFour.java">解答</a>|
