@@ -1,8 +1,8 @@
 package y2021.m02February.day130BinaryTreePaths;
 
 /**
- * @author Rex Joush
- * @time 2021.03.10
+ * @author Joush
+ * @time 2021.02.14
  */
 
 public class TreeNode {

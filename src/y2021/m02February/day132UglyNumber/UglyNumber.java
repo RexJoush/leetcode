@@ -1,7 +1,7 @@
 package y2021.m02February.day132UglyNumber;
 
 /**
- * @author Rex Joush
+ * @author Joush
  * @time 2021.02.16
  */
 
