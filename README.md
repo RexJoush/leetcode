@@ -162,7 +162,8 @@
 |0138|反转字符串中的元音字母|<a href="https://leetcode-cn.com/problems/reverse-vowels-of-a-string/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day138ReverseVowelsOfString/ReverseVowelsOfString.java">解答</a>|
 |0139|第三大的数|<a href="https://leetcode-cn.com/problems/third-maximum-number/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day139ThirdMaximumNumber/ThirdMaximumNumber.java">解答</a>|
 |0140|字符串中的单词数|<a href="https://leetcode-cn.com/problems/number-of-segments-in-a-string/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day140NumberOfSegmentsInString/NumberOfSegmentsInString.java">解答</a>|
-|0140|找到所有数组中消失的数字|<a href="https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day141FindAllNumbersDisappearedInArray/FindAllNumbersDisappearedInArray.java">解答</a>|
+|0141|找到所有数组中消失的数字|<a href="https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day141FindAllNumbersDisappearedInArray/FindAllNumbersDisappearedInArray.java">解答</a>|
+|0142|分发饼干|<a href="https://leetcode-cn.com/problems/assign-cookies/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m02February/day142AssignCookies/AssignCookies.java">解答</a>|
 |0144| | | |
 
 ## 2021 Mar.
@@ -243,3 +244,4 @@
 |0400|Fizz Buzz|<a href="https://leetcode-cn.com/problems/fizz-buzz/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day400FizzBuzz/FizzBuzz.java">解答</a>|
 |0401|字符串相加|<a href="https://leetcode-cn.com/problems/add-strings/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day401AddStrings/AddStrings.java">解答</a>|
 |0402|最小操作次数使数组元素相等|<a href="https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day402MinimumMovesToEqualArrayElements/MinimumMovesToEqualArrayElements.java">解答</a>|
+|0403|重复的子字符串|<a href="https://leetcode-cn.com/problems/repeated-substring-pattern/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day403RepeatedSubstringPattern/RepeatedSubstringPattern.java">解答</a>|
