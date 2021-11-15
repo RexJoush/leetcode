@@ -30,6 +30,9 @@ public class RepeatedSubstringPattern {
     /*
         首先想到，若 S 由 s 重复 N 次构成，那么，必有 S + S = 2Ns.(N >= 2)
         即，掐头去尾， (S + S)[1, length - 2], s 必存在于此区间中
+        结果：
+            83 ms, 29.00%
+            38.5 MB, 93.96%
      */
     public boolean repeatedSubstringPattern(String s) {
         return (s + s).substring(1, s.length() * 2 - 1).contains(s);
