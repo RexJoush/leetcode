@@ -247,3 +247,5 @@
 |0403|重复的子字符串|<a href="https://leetcode-cn.com/problems/repeated-substring-pattern/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day403RepeatedSubstringPattern/RepeatedSubstringPattern.java">解答</a>|
 |0404|岛屿的周长|<a href="https://leetcode-cn.com/problems/island-perimeter/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day404IslandPerimeter/IslandPerimeter.java">解答</a>|
 |0405|数字的补数|<a href="https://leetcode-cn.com/problems/number-complement/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day405NumberComplement/NumberComplement.java">解答</a>|
+|0406|最大连续 1 的个数|<a href="https://leetcode-cn.com/problems/max-consecutive-ones/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day406MaxConsecutiveOnes/MaxConsecutiveOnes.java">解答</a>|
+|0407|构造矩形|<a href="https://leetcode-cn.com/problems/construct-the-rectangle/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day407ConstructTheRectangle/ConstructTheRectangle.java">解答</a>|
