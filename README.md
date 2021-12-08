@@ -252,3 +252,6 @@
 |0408|提莫攻击|<a href="https://leetcode-cn.com/problems/teemo-attacking/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day408TeemoAttacking/TeemoAttacking.java">解答</a>|
 |0409|下一个更大元素 I|<a href="https://leetcode-cn.com/problems/next-greater-element-i/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day409NextGreaterElementI/NextGreaterElementI.java">解答</a>|
 |0410|键盘行|<a href="https://leetcode-cn.com/problems/keyboard-row/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day410KeyboardRow/KeyboardRow.java">解答</a>|
+|0411|二叉搜索树中的众数|<a href="https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day411FindModeInBinarySearchTree.java">解答</a>|
+|0412|七进制数|<a href="https://leetcode-cn.com/problems/base-7/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day412Base7.java">解答</a>|
+|0413|相对名次|<a href="https://leetcode-cn.com/problems/relative-ranks/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day413RelativeRanks.java">解答</a>|
