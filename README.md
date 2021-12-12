@@ -255,3 +255,9 @@
 |0411|二叉搜索树中的众数|<a href="https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day411FindModeInBinarySearchTree.java">解答</a>|
 |0412|七进制数|<a href="https://leetcode-cn.com/problems/base-7/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day412Base7.java">解答</a>|
 |0413|相对名次|<a href="https://leetcode-cn.com/problems/relative-ranks/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day413RelativeRanks.java">解答</a>|
+|0414|完美数|<a href="https://leetcode-cn.com/problems/perfect-number/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day414PerfectNumber.java">解答</a>|
+|0415|斐波那契数|<a href="https://leetcode-cn.com/problems/fibonacci-number/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day415FibonacciNumber.java">解答</a>|
+|0416|检测大写字母|<a href="https://leetcode-cn.com/problems/detect-capital/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day416DetectCapital.java">解答</a>|
+|0417|最长特殊序列 Ⅰ|<a href="https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day417LongestUncommonSubsequenceI.java">解答</a>|
+|0418|二叉搜索树的最小绝对差|<a href="https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day418MinimumAbsoluteDifferenceInBST.java">解答</a>|
+|0419|反转字符串 II|<a href="https://leetcode-cn.com/problems/reverse-string-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day419ReverseStringII.java">解答</a>|
