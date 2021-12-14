@@ -272,3 +272,9 @@
 |0423|N 叉树的最大深度|<a href="https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day423MaximumDepthOfNAnyTree.java">解答</a>|
 |0424|数组拆分 I|<a href="https://leetcode-cn.com/problems/array-partition-i/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day424ArrayPartitionI.java">解答</a>|
 |0425|二叉树的坡度|<a href="https://leetcode-cn.com/problems/binary-tree-tilt/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day425BinaryTreeTilt.java">解答</a>|
+|0426|重塑矩阵|<a href="https://leetcode-cn.com/problems/reshape-the-matrix/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day426ReshapeTheMatrix.java">解答</a>|
+|0427|另一棵树的子树|<a href="https://leetcode-cn.com/problems/subtree-of-another-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day427SubtreeOfAnotherTree.java">解答</a>|
+|0428|分糖果|<a href="https://leetcode-cn.com/problems/distribute-candies/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day428DistributeCandies.java">解答</a>|
+|0429|N 叉树的前序遍历|<a href="https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day429NAryTreePreorderTraversal.java">解答</a>|
+|0430|N 叉树的后序遍历|<a href="https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day430NAryTreePostorderTraversal.java">解答</a>|
+|0431|最长和谐子序列|<a href="https://leetcode-cn.com/problems/longest-harmonious-subsequence/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day431LongestHarmoniousSubsequence.java">解答</a>|

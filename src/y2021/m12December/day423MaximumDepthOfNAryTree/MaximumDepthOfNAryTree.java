@@ -1,4 +1,4 @@
-package y2021.m12December.day423MaximumDepthOfNAnyTree;
+package y2021.m12December.day423MaximumDepthOfNAryTree;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -44,7 +44,7 @@ import java.util.Queue;
         树的节点数目位于 [0, 10^4] 之间。
 
  */
-public class MaximumDepthOfNAnyTree {
+public class MaximumDepthOfNAryTree {
 
     /*
         方法一：dfs
