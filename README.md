@@ -281,3 +281,4 @@
 |0432|范围求和 II|<a href="https://leetcode-cn.com/problems/range-addition-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day432RangeAdditionII.java">解答</a>|
 |0433|两个列表的最小索引总和|<a href="https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day433MinimumIndexSumOfTwoLists.java">解答</a>|
 |0434|种花问题|<a href="https://leetcode-cn.com/problems/can-place-flowers/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day434CanPlaceFlowers.java">解答</a>|
+|0435|根据二叉树创建字符串|<a href="https://leetcode-cn.com/problems/construct-string-from-binary-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day435ConstructStringFromBinaryTree.java">解答</a>|
