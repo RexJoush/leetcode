@@ -34,14 +34,6 @@ import java.util.LinkedList;
  */
 public class MaximumValueOfSlidingWindow {
 
-    public static void main(String[] args) {
-        int[] nums = new int[]{7,2,4};
-        int k = 2;
-
-        System.out.println(Arrays.toString(new MaximumValueOfSlidingWindow().maxSlidingWindow2(nums, k)));
-
-    }
-
     /*
         双端队列，维护一个双端队列，保证队头元素是当前队列中的最大值，队尾元素是当前队列的最小值
         而队中的元素就是当前窗口内的值，所以每次拿到最大值只需要获取队头元素即可。
@@ -55,22 +47,22 @@ public class MaximumValueOfSlidingWindow {
         // 定义双端队列
         Deque<Integer> deque = new LinkedList<>();
 
-        for (int i = 0; i < nums.length; i++){
+        for (int i = 0; i < nums.length; i++) {
 
             // 在队列不空的情况下，如果队列尾部元素比当前元素小或等于当前元素，那么让尾部元素弹出，直到弹出所有小于当前值的元素为止
-            while (!deque.isEmpty() && nums[deque.peekLast()] <= nums[i]){
+            while (!deque.isEmpty() && nums[deque.peekLast()] <= nums[i]) {
                 deque.pollLast();
             }
             // 此时说明当前元素比队列尾部元素小，直接加入队尾即可，注意，存的是索引值
             deque.addLast(i);
 
             // 此时是窗口已经滑过了队头元素，则将头部元素弹出
-            if (deque.peekFirst() == (i - k)){
+            if (deque.peekFirst() == (i - k)) {
                 deque.pollFirst();
             }
 
             // 查看是否形成窗口，只有形成了大小为k的窗口，就收集最大值
-            if (i >= (k-1)){
+            if (i >= (k - 1)) {
                 result[index++] = nums[deque.peekFirst()];
             }
         }
@@ -85,11 +77,11 @@ public class MaximumValueOfSlidingWindow {
     public int[] maxSlidingWindow(int[] nums, int k) {
 
         // 数组为0，直接返回
-        if (k == 0){
+        if (k == 0) {
             return new int[]{};
         }
         // 如果 k == 1,则返回当前数组
-        if (k == 1){
+        if (k == 1) {
             return nums;
         }
 
@@ -105,11 +97,11 @@ public class MaximumValueOfSlidingWindow {
         int max = Integer.MIN_VALUE;
 
         // 当右指针到达末尾时结束
-        while (right <= nums.length){
+        while (right <= nums.length) {
 
             // 寻找左指针到右指针之间的最大值
-            for (int i = left; i < right;i++){
-                if (nums[i] > max){
+            for (int i = left; i < right; i++) {
+                if (nums[i] > max) {
                     max = nums[i];
                 }
             }
