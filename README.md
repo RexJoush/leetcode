@@ -286,3 +286,8 @@
 |0435|根据二叉树创建字符串|<a href="https://leetcode-cn.com/problems/construct-string-from-binary-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day435ConstructStringFromBinaryTree.java">解答</a>|
 |0436|三个数的最大乘积|<a href="https://leetcode-cn.com/problems/maximum-product-of-three-numbers/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day436MaximumProductOfThreeNumbers.java">解答</a>|
 |0437|图片平滑器|<a href="https://leetcode-cn.com/problems/image-smoother/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day437ImageSmoother.java">解答</a>|
+|0438|棒球比赛|<a href="https://leetcode-cn.com/problems/baseball-game/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day438BaseballGame.java">解答</a>|
+|0439|交替位二进制数|<a href="https://leetcode-cn.com/problems/binary-number-with-alternating-bits/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day439BinaryNumberWithAlternatingBits.java">解答</a>|
+|0440|计数二进制子串|<a href="https://leetcode-cn.com/problems/count-binary-substrings/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day440CountBinarySubstrings.java">解答</a>|
+|0441|数组的度|<a href="https://leetcode-cn.com/problems/degree-of-an-array/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day441DegreeOfAnArray.java">解答</a>|
+|0442|二叉搜索树中的搜索|<a href="https://leetcode-cn.com/problems/search-in-a-binary-search-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m11November/day442SearchInBinarySearchTree.java">解答</a>|
