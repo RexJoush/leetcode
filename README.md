@@ -305,4 +305,5 @@
 
 ## 2022 Jan.
 
-|0451|写字符串需要的行数|<a href="https://leetcode-cn.com/problems/number-of-lines-to-write-string/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m12December/day451NumberOfLinesToWriteString/NumberOfLinesToWriteString.java">解答</a>|
+|0451|写字符串需要的行数|<a href="https://leetcode-cn.com/problems/number-of-lines-to-write-string/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day451NumberOfLinesToWriteString/NumberOfLinesToWriteString.java">解答</a>|
+|0452|最大三角形面积|<a href="https://leetcode-cn.com/problems/largest-triangle-area/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day452LargestTriangleArea/LargestTriangleArea.java">解答</a>|
