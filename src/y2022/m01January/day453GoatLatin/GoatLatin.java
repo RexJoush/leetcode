@@ -23,7 +23,6 @@ package y2022.m01January.day453GoatLatin;
     示例 1:
         输入: "I speak Goat Latin"
         输出: "Imaa peaksmaaa oatGmaaaa atinLmaaaaa"
-
     示例 2:
         输入: "The quick brown fox jumped over the lazy dog"
         输出: "heTmaa uickqmaaa rownbmaaaa oxfmaaaaa umpedjmaaaaaa overmaaaaaaa hetmaaaaaaaa azylmaaaaaaaaa ogdmaaaaaaaaaa"
