@@ -45,7 +45,7 @@ public class BackspaceStringCompare {
             0 ms, 100.00%
             36.5 MB, 69.66%
      */
-    public boolean backspaceCompare2(String s, String t) {
+    public boolean backspaceCompare(String s, String t) {
         int i = s.length() - 1;
         int j = t.length() - 1;
         int skipS = 0;  // s 的 # 数量
@@ -107,7 +107,7 @@ public class BackspaceStringCompare {
             2 ms, 21.56%
             36.8 MB, 11.97%
      */
-    public boolean backspaceCompare(String s, String t) {
+    public boolean backspaceCompare2(String s, String t) {
         // 使用栈
         Stack<Character> stackS = new Stack<>();
         Stack<Character> stackT = new Stack<>();
