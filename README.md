@@ -323,3 +323,4 @@
 |0456|亲密字符串|<a href="https://leetcode-cn.com/problems/buddy-strings/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day456BuddyStrings/BuddyStrings.java">解答</a>|
 |0457|二进制间距|<a href="https://leetcode-cn.com/problems/binary-gap/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day457BinaryGap/BinaryGap.java">解答</a>|
 |0458|三维形体投影面积|<a href="https://leetcode-cn.com/problems/projection-area-of-3d-shapes/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day458ProjectionAreaOf3DShapes/ProjectionAreaOf3DShapes.java">解答</a>|
+|0459|公平的糖果交换|<a href="https://leetcode-cn.com/problems/fair-candy-swap/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day459FairCandySwap/FairCandySwap.java">解答</a>|
