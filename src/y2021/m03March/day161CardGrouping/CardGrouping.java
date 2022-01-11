@@ -46,10 +46,6 @@ import java.util.Map;
  */
 public class CardGrouping {
 
-    public static void main(String[] args) {
-        new CardGrouping().hasGroupsSizeX(new int[]{1,1});
-    }
-
     /*
         方法一：枚举
         先统计各个牌的数量，从 2 开始枚举 x，由题意可得，当 x 满足条件时
