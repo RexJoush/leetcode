@@ -37,9 +37,33 @@ package y2021.m03March.day163LongPressedName;
 public class LongPressedName {
 
     /*
-        比较判断即可
+        双指针，比较判断即可
+        结果：
+            0 ms, 100.00%
+            36.4 MB, 70.81%
      */
     public boolean isLongPressedName(String name, String typed) {
+        char[] nameChars = name.toCharArray();
+        char[] typedChars = typed.toCharArray();
 
+        int i = 0;
+        int j = 0;
+
+        while (j < typedChars.length) {
+            // 如果两个字符相等，就均往后移一个字符
+            if (i < nameChars.length && nameChars[i] == typedChars[j]) {
+                i++;
+                j++;
+            }
+            // 如果 typed 当前字符和前一个字符相同，则表示长按了，j++
+            else if (j > 0 && typedChars[j] == typedChars[j - 1]) {
+                j++;
+            } else {
+                // 此时不满足条件，直接 false
+                return false;
+            }
+        }
+        // 如果最后遍历到结尾，返回 true
+        return i == nameChars.length;
     }
 }
