@@ -1,7 +1,5 @@
 package y2021.m03March.day168VerifyingAnAlienDictionary;
 
-import java.util.Comparator;
-
 /**
  * @author Rex Joush
  * @time 2021.03.24
