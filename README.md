@@ -197,6 +197,8 @@
 |0168|验证外星语词典|<a href="https://leetcode-cn.com/problems/verifying-an-alien-dictionary/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m03March/day168VerifyingAnAlienDictionary/VerifyingAnAlienDictionary.java">解答</a>|
 |0169|单值二叉树|<a href="https://leetcode-cn.com/problems/univalued-binary-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m03March/day169UnivaluedBinaryTree/UnivaluedBinaryTree.java">解答</a>|
 |0170|三角形的最大周长|<a href="https://leetcode-cn.com/problems/largest-perimeter-triangle/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m03March/day170LargestPerimeterTriangle/LargestPerimeterTriangle.java">解答</a>|
+|0171|可以被一步捕获的棋子数|<a href="https://leetcode-cn.com/problems/available-captures-for-rook/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m03March/day171AvailableCapturesForRook/AvailableCapturesForRook.java">解答</a>|
+|0172|查找共用字符|<a href="https://leetcode-cn.com/problems/find-common-characters/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m03March/day172FindCommonCharacters/FindCommonCharacters.java">解答</a>|
 |0175| | | |
 
 ## 2021 Apr.
@@ -344,3 +346,4 @@
 |0464|删列造序|<a href="https://leetcode-cn.com/problems/delete-columns-to-make-sorted/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day464DeleteColumnsToMakeSorted/DeleteColumnsToMakeSorted.java">解答</a>|
 |0465|在长度 2N 的数组中找出重复 N 次的元素|<a href="https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day465NRepeatedElementInSize2NArray/NRepeatedElementInSize2NArray.java">解答</a>|
 |0466|二叉树的堂兄弟节点|<a href="https://leetcode-cn.com/problems/cousins-in-binary-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day466CousinsInBinaryTree/CousinsInBinaryTree.java">解答</a>|
+|0467|找到小镇的法官|<a href="https://leetcode-cn.com/problems/find-the-town-judge/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day467FindTheTownJudge/FindTheTownJudge.java">解答</a>|
