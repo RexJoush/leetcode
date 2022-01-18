@@ -2,7 +2,6 @@ package y2021.m03March.day172FindCommonCharacters;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.LinkedList;
 import java.util.List;
 
 /**
