@@ -349,3 +349,4 @@
 |0466|二叉树的堂兄弟节点|<a href="https://leetcode-cn.com/problems/cousins-in-binary-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day466CousinsInBinaryTree/CousinsInBinaryTree.java">解答</a>|
 |0467|找到小镇的法官|<a href="https://leetcode-cn.com/problems/find-the-town-judge/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day467FindTheTownJudge/FindTheTownJudge.java">解答</a>|
 |0468|K 次取反后最大化的数组和|<a href="https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day468MaximizeSumOfArrayAfterKNegations/MaximizeSumOfArrayAfterKNegations.java">解答</a>|
+|0469|删除最外层的括号|<a href="https://leetcode-cn.com/problems/remove-outermost-parentheses/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day467RemoveOutermostParentheses/RemoveOutermostParentheses.java">解答</a>|
