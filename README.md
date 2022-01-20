@@ -200,6 +200,7 @@
 |0171|可以被一步捕获的棋子数|<a href="https://leetcode-cn.com/problems/available-captures-for-rook/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m03March/day171AvailableCapturesForRook/AvailableCapturesForRook.java">解答</a>|
 |0172|查找共用字符|<a href="https://leetcode-cn.com/problems/find-common-characters/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m03March/day172FindCommonCharacters/FindCommonCharacters.java">解答</a>|
 |0173|可被 5 整除的二进制前缀|<a href="https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m03March/day173BinaryPrefixDivisibleByFive/BinaryPrefixDivisibleByFive.java">解答</a>|
+|0174|除数博弈|<a href="https://leetcode-cn.com/problems/divisor-game/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m03March/day174DivisorGame/DivisorGame.java">解答</a>|
 |0175| | | |
 
 ## 2021 Apr.
@@ -349,4 +350,5 @@
 |0466|二叉树的堂兄弟节点|<a href="https://leetcode-cn.com/problems/cousins-in-binary-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day466CousinsInBinaryTree/CousinsInBinaryTree.java">解答</a>|
 |0467|找到小镇的法官|<a href="https://leetcode-cn.com/problems/find-the-town-judge/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day467FindTheTownJudge/FindTheTownJudge.java">解答</a>|
 |0468|K 次取反后最大化的数组和|<a href="https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day468MaximizeSumOfArrayAfterKNegations/MaximizeSumOfArrayAfterKNegations.java">解答</a>|
-|0469|删除最外层的括号|<a href="https://leetcode-cn.com/problems/remove-outermost-parentheses/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day467RemoveOutermostParentheses/RemoveOutermostParentheses.java">解答</a>|
+|0469|删除最外层的括号|<a href="https://leetcode-cn.com/problems/remove-outermost-parentheses/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day469RemoveOutermostParentheses/RemoveOutermostParentheses.java">解答</a>|
+|0470|从根到叶的二进制数之和|<a href="https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day470SumOfRootToLeafBinaryNumbers/SumOfRootToLeafBinaryNumbers.java">解答</a>|
