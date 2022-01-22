@@ -1,9 +1,13 @@
-package y2021.m01January.day112BalancedBinaryTree;
+package datastructure;
 
+/**
+ * @author Rex Joush
+ * 树的节点结构
+ */
 public class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
+    public int val;
+    public TreeNode left;
+    public TreeNode right;
 
     public TreeNode() {
     }

@@ -1,5 +1,7 @@
 package y2020.m10October.day02ReverseList;
 
+import datastructure.ListNode;
+
 /**
  * @author Joush
  * @time 2020.10.09

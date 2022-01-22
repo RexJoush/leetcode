@@ -1,5 +1,7 @@
 package y2021.m03March.day155LeafSimilarTrees;
 
+import datastructure.TreeNode;
+
 import java.util.LinkedList;
 import java.util.List;
 

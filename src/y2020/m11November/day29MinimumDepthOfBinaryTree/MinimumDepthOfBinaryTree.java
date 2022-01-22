@@ -1,5 +1,7 @@
 package y2020.m11November.day29MinimumDepthOfBinaryTree;
 
+import datastructure.TreeNode;
+
 import java.util.LinkedList;
 import java.util.Queue;
 

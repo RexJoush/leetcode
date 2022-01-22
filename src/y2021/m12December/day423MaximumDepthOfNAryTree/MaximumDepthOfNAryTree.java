@@ -1,5 +1,7 @@
 package y2021.m12December.day423MaximumDepthOfNAryTree;
 
+import datastructure.Node;
+
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;

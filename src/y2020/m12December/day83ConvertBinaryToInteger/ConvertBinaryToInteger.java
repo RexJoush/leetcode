@@ -1,5 +1,7 @@
 package y2020.m12December.day83ConvertBinaryToInteger;
 
+import datastructure.ListNode;
+
 import java.util.ArrayList;
 import java.util.List;
 

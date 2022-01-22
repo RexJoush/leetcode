@@ -1,5 +1,7 @@
 package y2020.m10October.day19LinkedListCycle;
 
+import datastructure.ListNode;
+
 import java.util.HashSet;
 import java.util.Set;
 

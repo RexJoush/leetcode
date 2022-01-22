@@ -1,5 +1,7 @@
 package y2021.m01January.day92ReciprocalNode;
 
+import datastructure.ListNode;
+
 /**
  * @author Joush
  * @time 2021.01.07

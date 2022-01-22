@@ -1,5 +1,7 @@
 package y2020.m11November.day26RemoveLinkedListElements;
 
+import datastructure.ListNode;
+
 /**
  * @author Joush
  * @time 2020.11.02

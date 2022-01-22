@@ -1,5 +1,7 @@
 package y2021.m12December.day435ConstructStringFromBinaryTree;
 
+import datastructure.TreeNode;
+
 /**
  * @author Rex Joush
  * @time 2021.12.16

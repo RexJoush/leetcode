@@ -1,5 +1,7 @@
 package y2022.m01January.day470SumOfRootToLeafBinaryNumbers;
 
+import datastructure.TreeNode;
+
 /**
  * @author Rex Joush
  * @time 2022.01.20

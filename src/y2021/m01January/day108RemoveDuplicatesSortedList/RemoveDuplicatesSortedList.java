@@ -1,5 +1,7 @@
 package y2021.m01January.day108RemoveDuplicatesSortedList;
 
+import datastructure.ListNode;
+
 /**
  * @author Joush
  * @time 2021.01.23

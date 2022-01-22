@@ -1,5 +1,7 @@
 package y2021.m01January.day87MinimumHeightTree;
 
+import datastructure.TreeNode;
+
 /**
  * @author Joush
  * @time 2021.01.02

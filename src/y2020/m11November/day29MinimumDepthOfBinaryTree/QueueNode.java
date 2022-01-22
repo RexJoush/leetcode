@@ -1,5 +1,7 @@
 package y2020.m11November.day29MinimumDepthOfBinaryTree;
 
+import datastructure.TreeNode;
+
 public class QueueNode {
     TreeNode node;
     int depth;

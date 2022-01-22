@@ -1,5 +1,7 @@
 package y2020.m10October.day20MaximumDepthOfBinaryTree;
 
+import datastructure.TreeNode;
+
 /**
  * @author Joush
  * @time 2020.10.27

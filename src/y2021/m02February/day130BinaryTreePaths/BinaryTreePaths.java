@@ -1,5 +1,7 @@
 package y2021.m02February.day130BinaryTreePaths;
 
+import datastructure.TreeNode;
+
 import java.util.ArrayList;
 import java.util.List;
 

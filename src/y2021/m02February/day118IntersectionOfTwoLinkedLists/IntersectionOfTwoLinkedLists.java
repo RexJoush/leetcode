@@ -1,5 +1,7 @@
 package y2021.m02February.day118IntersectionOfTwoLinkedLists;
 
+import datastructure.ListNode;
+
 import java.util.ArrayList;
 import java.util.List;
 

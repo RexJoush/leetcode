@@ -1,5 +1,7 @@
 package y2021.m03March.day156MiddleOfTheLinkedList;
 
+import datastructure.ListNode;
+
 /**
  * @author Rex Joush
  * @time 2021.03.12

@@ -1,13 +1,13 @@
-package y2021.m12December.day430NAryTreePostorderTraversal;
+package datastructure;
 
 import java.util.List;
 
 /**
  * @author Rex Joush
- * @time 2021.12.04
+ * 多叉树的节点结构
  */
 
-class Node {
+public class Node {
     public int val;
     public List<Node> children;
 

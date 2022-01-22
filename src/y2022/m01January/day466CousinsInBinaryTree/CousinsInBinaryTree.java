@@ -1,5 +1,7 @@
 package y2022.m01January.day466CousinsInBinaryTree;
 
+import datastructure.TreeNode;
+
 import java.util.ArrayDeque;
 import java.util.Queue;
 

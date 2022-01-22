@@ -1,5 +1,7 @@
 package y2020.m11November.day30PalindromeLinkedList;
 
+import datastructure.ListNode;
+
 import java.util.Stack;
 
 /**
