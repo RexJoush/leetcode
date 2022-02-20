@@ -60,7 +60,7 @@ public class LongestSubstringWithoutRepeatingCharacters {
                     队列变为 d e c
              */
             if (queue.contains(ch)) {
-                while (!queue.isEmpty() && queue.remove() != ch);
+                while (!queue.isEmpty() && queue.remove() != ch) ;
             }
             queue.offer(ch);
             // 每次更新最大值即可

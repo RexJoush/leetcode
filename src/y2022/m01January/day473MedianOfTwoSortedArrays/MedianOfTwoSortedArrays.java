@@ -59,7 +59,6 @@ public class MedianOfTwoSortedArrays {
 
         // 开始遍历
         for (int index = 0; index <= length / 2; index++) {
-
             median = median2;
 
             // 首先保证，第一个数组不遍历到底
