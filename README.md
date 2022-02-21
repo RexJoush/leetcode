@@ -361,3 +361,5 @@
 |0477|三数之和|<a href="https://leetcode-cn.com/problems/3sum/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day477ThreeSum/ThreeSum.java">解答</a>|
 |0478|最接近的三数之和|<a href="https://leetcode-cn.com/problems/3sum-closest/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day478ThreeSumClosest/ThreeSumClosest.java">解答</a>|
 |0479|合并K个升序链表|<a href="https://leetcode-cn.com/problems/merge-k-sorted-lists/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day479MergeKSortedLists/MergeKSortedLists.java">解答</a>|
+|0480|搜索旋转排序数组|<a href="https://leetcode-cn.com/problems/search-in-rotated-sorted-array/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day480SearchInRotatedSortedArray/SearchInRotatedSortedArray.java">解答</a>|
+|0481|字符串相乘|<a href="https://leetcode-cn.com/problems/multiply-strings/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day481MultiplyStrings/MultiplyStrings.java">解答</a>|
