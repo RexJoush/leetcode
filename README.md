@@ -363,3 +363,5 @@
 |0479|合并K个升序链表|<a href="https://leetcode-cn.com/problems/merge-k-sorted-lists/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day479MergeKSortedLists/MergeKSortedLists.java">解答</a>|
 |0480|搜索旋转排序数组|<a href="https://leetcode-cn.com/problems/search-in-rotated-sorted-array/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day480SearchInRotatedSortedArray/SearchInRotatedSortedArray.java">解答</a>|
 |0481|字符串相乘|<a href="https://leetcode-cn.com/problems/multiply-strings/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day481MultiplyStrings/MultiplyStrings.java">解答</a>|
+|0482|全排列|<a href="https://leetcode-cn.com/problems/permutations/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day482Permutations/Permutations.java">解答</a>|
+|0483|LRU 缓存|<a href="https://leetcode-cn.com/problems/lru-cache/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day483LRUCache/LRUCache.java">解答</a>|
