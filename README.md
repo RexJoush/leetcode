@@ -366,3 +366,5 @@
 |0482|全排列|<a href="https://leetcode-cn.com/problems/permutations/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day482Permutations/Permutations.java">解答</a>|
 |0483|LRU 缓存|<a href="https://leetcode-cn.com/problems/lru-cache/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day483LRUCache/LRUCache.java">解答</a>|
 |0484|螺旋矩阵|<a href="https://leetcode-cn.com/problems/spiral-matrix/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day484SpiralMatrix/SpiralMatrix.java">解答</a>|
+|0485|螺旋矩阵 II|<a href="https://leetcode-cn.com/problems/spiral-matrix-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day485SpiralMatrixII/SpiralMatrixII.java">解答</a>|
+|0486|旋转链表|<a href="https://leetcode-cn.com/problems/rotate-list/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day486RotateList/RotateList.java">解答</a>|

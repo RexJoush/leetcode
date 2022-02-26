@@ -38,6 +38,9 @@ public class SpiralMatrix {
 
     /*
         模拟顺序遍历即可
+        结果：
+            0 ms, 100.00%
+            39.4 MB, 18.79%
      */
     public List<Integer> spiralOrder(int[][] matrix) {
 
