@@ -368,3 +368,6 @@
 |0484|螺旋矩阵|<a href="https://leetcode-cn.com/problems/spiral-matrix/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day484SpiralMatrix/SpiralMatrix.java">解答</a>|
 |0485|螺旋矩阵 II|<a href="https://leetcode-cn.com/problems/spiral-matrix-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day485SpiralMatrixII/SpiralMatrixII.java">解答</a>|
 |0486|旋转链表|<a href="https://leetcode-cn.com/problems/rotate-list/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day486RotateList/RotateList.java">解答</a>|
+|0487|不同路径|<a href="https://leetcode-cn.com/problems/unique-paths/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day487UniquePaths/UniquePaths.java">解答</a>|
+|0488|子集|<a href="https://leetcode-cn.com/problems/subsets/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day488Subsets/Subsets.java">解答</a>|
+|0489|格雷编码|<a href="https://leetcode-cn.com/problems/gray-code/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day489GrayCode/GrayCode.java">解答</a>|

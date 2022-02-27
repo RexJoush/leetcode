@@ -2,8 +2,6 @@ package y2022.m02February.day486RotateList;
 
 import datastructure.ListNode;
 
-import java.util.List;
-
 /**
  * @author Rex Joush
  * @time 2022.02.05
@@ -38,11 +36,6 @@ import java.util.List;
 
  */
 public class RotateList {
-
-    public static void main(String[] args) {
-
-        System.out.println(0 % 5);
-    }
 
     /*
         将链表接起来，移动 k 次后，断开即可
