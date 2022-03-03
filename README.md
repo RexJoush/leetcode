@@ -363,11 +363,21 @@
 |0479|合并K个升序链表|<a href="https://leetcode-cn.com/problems/merge-k-sorted-lists/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day479MergeKSortedLists/MergeKSortedLists.java">解答</a>|
 |0480|搜索旋转排序数组|<a href="https://leetcode-cn.com/problems/search-in-rotated-sorted-array/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day480SearchInRotatedSortedArray/SearchInRotatedSortedArray.java">解答</a>|
 |0481|字符串相乘|<a href="https://leetcode-cn.com/problems/multiply-strings/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day481MultiplyStrings/MultiplyStrings.java">解答</a>|
-|0482|全排列|<a href="https://leetcode-cn.com/problems/permutations/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day482Permutations/Permutations.java">解答</a>|
-|0483|LRU 缓存|<a href="https://leetcode-cn.com/problems/lru-cache/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day483LRUCache/LRUCache.java">解答</a>|
-|0484|螺旋矩阵|<a href="https://leetcode-cn.com/problems/spiral-matrix/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day484SpiralMatrix/SpiralMatrix.java">解答</a>|
-|0485|螺旋矩阵 II|<a href="https://leetcode-cn.com/problems/spiral-matrix-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day485SpiralMatrixII/SpiralMatrixII.java">解答</a>|
-|0486|旋转链表|<a href="https://leetcode-cn.com/problems/rotate-list/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day486RotateList/RotateList.java">解答</a>|
-|0487|不同路径|<a href="https://leetcode-cn.com/problems/unique-paths/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day487UniquePaths/UniquePaths.java">解答</a>|
-|0488|子集|<a href="https://leetcode-cn.com/problems/subsets/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day488Subsets/Subsets.java">解答</a>|
-|0489|格雷编码|<a href="https://leetcode-cn.com/problems/gray-code/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m01January/day489GrayCode/GrayCode.java">解答</a>|
+
+## 2022 Feb.
+
+|0482|全排列|<a href="https://leetcode-cn.com/problems/permutations/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day482Permutations/Permutations.java">解答</a>|
+|0483|LRU 缓存|<a href="https://leetcode-cn.com/problems/lru-cache/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day483LRUCache/LRUCache.java">解答</a>|
+|0484|螺旋矩阵|<a href="https://leetcode-cn.com/problems/spiral-matrix/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day484SpiralMatrix/SpiralMatrix.java">解答</a>|
+|0485|螺旋矩阵 II|<a href="https://leetcode-cn.com/problems/spiral-matrix-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day485SpiralMatrixII/SpiralMatrixII.java">解答</a>|
+|0486|旋转链表|<a href="https://leetcode-cn.com/problems/rotate-list/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day486RotateList/RotateList.java">解答</a>|
+|0487|不同路径|<a href="https://leetcode-cn.com/problems/unique-paths/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day487UniquePaths/UniquePaths.java">解答</a>|
+|0488|子集|<a href="https://leetcode-cn.com/problems/subsets/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day488Subsets/Subsets.java">解答</a>|
+|0489|格雷编码|<a href="https://leetcode-cn.com/problems/gray-code/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day489GrayCode/GrayCode.java">解答</a>|
+|0490|环形链表 II|<a href="https://leetcode-cn.com/problems/linked-list-cycle-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day490LinkedListCycleII/LinkedListCycleII.java">解答</a>|
+|0491|排序链表|<a href="https://leetcode-cn.com/problems/sort-list/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day491SortList/SortList.java">解答</a>|
+|0492|数组中的第 K 个最大元素|<a href="https://leetcode-cn.com/problems/kth-largest-element-in-an-array/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day492KthLargestElementInAnArray/KthLargestElementInAnArray.java">解答</a>|
+|0493|二叉搜索树中第 K 小的元素|<a href="https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day493KthSmallestElementInBST/KthSmallestElementInBST.java">解答</a>|
+|0494|二叉树的最近公共祖先|<a href="https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day494LowestCommonAncestorOfBinaryTree/LowestCommonAncestorOfBinaryTree.java">解答</a>|
+|0495|除自身以外数组的乘积|<a href="https://leetcode-cn.com/problems/product-of-array-except-self/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day495ProductOfArrayExceptSelf/ProductOfArrayExceptSelf.java">解答</a>|
+|0496|二叉树中的最大路径和|<a href="https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day496BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.java">解答</a>|
