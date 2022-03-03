@@ -366,6 +366,8 @@
 
 ## 2022 Feb.
 
+|天数|题目|题目链接|解答链接|
+|:--|:--|:--|:--|
 |0482|全排列|<a href="https://leetcode-cn.com/problems/permutations/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day482Permutations/Permutations.java">解答</a>|
 |0483|LRU 缓存|<a href="https://leetcode-cn.com/problems/lru-cache/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day483LRUCache/LRUCache.java">解答</a>|
 |0484|螺旋矩阵|<a href="https://leetcode-cn.com/problems/spiral-matrix/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day484SpiralMatrix/SpiralMatrix.java">解答</a>|
