@@ -372,7 +372,7 @@
 |:--|:--|:--|:--|:--|
 |0482|:orange_circle:|全排列|<a href="https://leetcode-cn.com/problems/permutations/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day482Permutations/Permutations.java">解答</a>|
 |0483|:orange_circle:|LRU 缓存|<a href="https://leetcode-cn.com/problems/lru-cache/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day483LRUCache/LRUCache.java">解答</a>|
-|0484|:green_circle:|螺旋矩阵|<a href="https://leetcode-cn.com/problems/spiral-matrix/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day484SpiralMatrix/SpiralMatrix.java">解答</a>|
+|0484|:orange_circle:|螺旋矩阵|<a href="https://leetcode-cn.com/problems/spiral-matrix/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day484SpiralMatrix/SpiralMatrix.java">解答</a>|
 |0485|:orange_circle:|螺旋矩阵 II|<a href="https://leetcode-cn.com/problems/spiral-matrix-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day485SpiralMatrixII/SpiralMatrixII.java">解答</a>|
 |0486|:orange_circle:|旋转链表|<a href="https://leetcode-cn.com/problems/rotate-list/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day486RotateList/RotateList.java">解答</a>|
 |0487|:orange_circle:|不同路径|<a href="https://leetcode-cn.com/problems/unique-paths/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m02February/day487UniquePaths/UniquePaths.java">解答</a>|
