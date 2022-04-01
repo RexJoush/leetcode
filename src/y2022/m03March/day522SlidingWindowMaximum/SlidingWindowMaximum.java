@@ -2,7 +2,6 @@ package y2022.m03March.day522SlidingWindowMaximum;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.PriorityQueue;
 
 /**
  * @author Rex Joush
