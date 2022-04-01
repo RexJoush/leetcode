@@ -2,7 +2,7 @@ package y2022.m03March.day537PartitionEqualSubsetSum;
 
 /**
  * @author Rex Joush
- * @time 2022.04.01
+ * @time 2022.03.28
  */
 
 /*
