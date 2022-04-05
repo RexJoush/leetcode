@@ -28,9 +28,6 @@ package y2021.m03March.day175PerfectSquares;
  */
 public class PerfectSquares {
 
-    public static void main(String[] args) {
-        System.out.println(new PerfectSquares().numSquares(12));
-    }
     public int numSquares2(int n) {
         int[] weight = new int[100];
 
@@ -188,7 +185,7 @@ public class PerfectSquares {
         printDp(dp, capacity);
     }
 
-    // 恰好装满
+    // 基础背包，恰好装满
     public void benefitFull(int[] weight, int[] value, int capacity) {
 
         // dp[i][j] 代表第 i 个物品，j 重量能够获得的最大价值
