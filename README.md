@@ -211,6 +211,7 @@
 |:--|:--|:--|:--|:--|
 |0176|:orange_circle:|寻找重复数|<a href="https://leetcode-cn.com/problems/find-the-duplicate-number/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m04April/day176FindTheDuplicateNumber/FindTheDuplicateNumber.java">解答</a>|
 |0177|:orange_circle:|最长递增子序列|<a href="https://leetcode-cn.com/problems/longest-increasing-subsequence/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m04April/day177LongestIncreasingSubsequence/LongestIncreasingSubsequence.java">解答</a>|
+|0178|:orange_circle:|前 K 个高频元素|<a href="https://leetcode-cn.com/problems/top-k-frequent-elements/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2021/m04April/day178TopKFrequentElements/TopKFrequentElements.java">解答</a>|
 |0205|:green_circle:| | | |
 
 ## 2021 May.
@@ -446,3 +447,5 @@
 |0544|:orange_circle:|搜索二维矩阵 II|<a href="https://leetcode-cn.com/problems/search-a-2d-matrix-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day544Search2DMatrixII/Search2DMatrixII.java">解答</a>|
 |0545|:orange_circle:|零钱兑换|<a href="https://leetcode-cn.com/problems/coin-change/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day545CoinChange/CoinChange.java">解答</a>|
 |0546|:orange_circle:|打家劫舍 III|<a href="https://leetcode-cn.com/problems/house-robber-iii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day546HouseRobberIII/HouseRobberIII.java">解答</a>|
+|0547|:orange_circle:|根据身高重建队列|<a href="https://leetcode-cn.com/problems/queue-reconstruction-by-height/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day547QueueReconstructionByHeight/QueueReconstructionByHeight.java">解答</a>|
+|0548|:orange_circle:|字符串解码|<a href="https://leetcode-cn.com/problems/decode-string/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day548DecodeString/DecodeString.java">解答</a>|
