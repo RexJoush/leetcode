@@ -2,8 +2,6 @@ package y2022.m04April.day548DecodeString;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * @author Rex Joush
@@ -42,7 +40,10 @@ import java.util.regex.Pattern;
 public class DecodeString {
 
     /*
-        顺序解码即可
+        使用栈
+        结果：
+            2 ms, 27.15%
+            39.6 MB, 24.96%
      */
     public String decodeString(String s) {
 
@@ -50,27 +51,35 @@ public class DecodeString {
 
         Deque<Character> deque = new ArrayDeque<>();
         for (char ch : chars) {
+            // 遇到右括号进行处理，否则就入栈即可
             if (ch == ']') {
+                // 需要重复的字符串
                 StringBuilder value = new StringBuilder();
+                // 把 [] 之间的字符串拼接起来
                 while (!deque.isEmpty() && deque.peek() != '[') {
-                    value.append(deque.pop());
+                    value.insert(0, deque.pop());
                 }
+                // 把 [ 出栈
                 deque.pop();
+                // 获取重复字符串的遍数
                 StringBuilder numS = new StringBuilder();
                 while (!deque.isEmpty() && Character.isDigit(deque.peek())) {
-                    numS.append(deque.pop());
+                    numS.insert(0, deque.pop());
                 }
-                int number = Integer.parseInt(numS.reverse().toString());
-                for (int j = 0; j < number; j++) {
-                    for (int k = value.length() - 1; k >= 0; k--) {
+                int number = Integer.parseInt(numS.toString());
+                // 重复 number 遍，再次 push 到栈中
+                while (number > 0) {
+                    for (int k = 0; k < value.length(); k++) {
                         deque.push(value.charAt(k));
                     }
+                    number--;
                 }
             } else {
                 deque.push(ch);
             }
 
         }
+        // 将栈中的字符整个拼成字符串，返回即可
         StringBuilder result = new StringBuilder();
         while (!deque.isEmpty()) {
             result.append(deque.pollLast());

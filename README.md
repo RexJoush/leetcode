@@ -449,3 +449,5 @@
 |0546|:orange_circle:|打家劫舍 III|<a href="https://leetcode-cn.com/problems/house-robber-iii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day546HouseRobberIII/HouseRobberIII.java">解答</a>|
 |0547|:orange_circle:|根据身高重建队列|<a href="https://leetcode-cn.com/problems/queue-reconstruction-by-height/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day547QueueReconstructionByHeight/QueueReconstructionByHeight.java">解答</a>|
 |0548|:orange_circle:|字符串解码|<a href="https://leetcode-cn.com/problems/decode-string/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day548DecodeString/DecodeString.java">解答</a>|
+|0549|:orange_circle:|路径总和 III|<a href="https://leetcode-cn.com/problems/path-sum-iii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day549PathSumIII/PathSumIII.java">解答</a>|
+|0550|:orange_circle:|回文子串|<a href="https://leetcode-cn.com/problems/palindromic-substrings/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day550PalindromicSubstrings/PalindromicSubstrings.java">解答</a>|
