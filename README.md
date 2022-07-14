@@ -460,4 +460,4 @@
 |0557|:orange_circle:|下一个更大元素 II|<a href="https://leetcode.cn/problems/next-greater-element-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day557NextGreaterElementII/NextGreaterElementII.java">解答</a>|
 |0558|:red_circle:|戳气球|<a href="https://leetcode.cn/problems/burst-balloons/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day558BurstBalloons/BurstBalloons.java">解答</a>|
 |0559|:red_circle:|最短回文串|<a href="https://leetcode.cn/problems/shortest-palindrome/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day559ShortestPalindrome/ShortestPalindrome.java">解答</a>|
-|0560|:red_circle:|目标和|<a href="https://leetcode.cn/problems/target-sum/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day560TargetSum/TargetSum.java">解答</a>|
+|0560|:orange_circle:|目标和|<a href="https://leetcode.cn/problems/target-sum/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day560TargetSum/TargetSum.java">解答</a>|
