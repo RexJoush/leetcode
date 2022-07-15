@@ -461,3 +461,5 @@
 |0558|:red_circle:|戳气球|<a href="https://leetcode.cn/problems/burst-balloons/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day558BurstBalloons/BurstBalloons.java">解答</a>|
 |0559|:red_circle:|最短回文串|<a href="https://leetcode.cn/problems/shortest-palindrome/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day559ShortestPalindrome/ShortestPalindrome.java">解答</a>|
 |0560|:orange_circle:|目标和|<a href="https://leetcode.cn/problems/target-sum/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day560TargetSum/TargetSum.java">解答</a>|
+|0561|:orange_circle:|和为 K 的子数组|<a href="https://leetcode.cn/problems/subarray-sum-equals-k/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day561SubarraySumEqualsK/SubarraySumEqualsK.java">解答</a>|
+|0562|:orange_circle:|最短无序连续子数组|<a href="https://leetcode.cn/problems/shortest-unsorted-continuous-subarray/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day562ShortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java">解答</a>|
