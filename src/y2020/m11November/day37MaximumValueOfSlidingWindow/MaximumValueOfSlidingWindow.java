@@ -1,6 +1,5 @@
 package y2020.m11November.day37MaximumValueOfSlidingWindow;
 
-import java.util.Arrays;
 import java.util.Deque;
 import java.util.LinkedList;
 

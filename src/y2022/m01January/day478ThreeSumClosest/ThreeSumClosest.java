@@ -1,8 +1,6 @@
 package y2022.m01January.day478ThreeSumClosest;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 /**
  * @author Rex Joush

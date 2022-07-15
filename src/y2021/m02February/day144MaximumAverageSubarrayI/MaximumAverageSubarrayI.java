@@ -1,7 +1,5 @@
 package y2021.m02February.day144MaximumAverageSubarrayI;
 
-import java.util.Arrays;
-
 /**
  * @author Rex Joush
  * @time 2021.02.28

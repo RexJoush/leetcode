@@ -1,7 +1,5 @@
 package y2022.m02February.day495ProductOfArrayExceptSelf;
 
-import java.util.Arrays;
-
 /**
  * @author Rex Joush
  * @time 2022.02.14

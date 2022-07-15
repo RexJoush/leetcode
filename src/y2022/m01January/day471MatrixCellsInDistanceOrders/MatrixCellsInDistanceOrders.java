@@ -2,7 +2,6 @@ package y2022.m01January.day471MatrixCellsInDistanceOrders;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.List;
 
 /**

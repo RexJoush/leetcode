@@ -65,7 +65,6 @@ public class EvenNumberOfDigits {
      */
     public int findNumbers2(int[] nums) {
         int result = 0;
-        int temp = 0;
 
         for (int num : nums) {
             if (String.valueOf(num).length() % 2 == 0) {
