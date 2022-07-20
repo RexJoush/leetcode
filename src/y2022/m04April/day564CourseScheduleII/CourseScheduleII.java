@@ -43,7 +43,7 @@ import java.util.stream.Collectors;
 public class CourseScheduleII {
 
     /*
-        方法一：拓扑排序，广度优先搜索
+        拓扑排序，广度优先搜索
             参考课程表 1 的拓扑排序，记录过程即可
         结果：
             8 ms, 19.19%
@@ -90,51 +90,4 @@ public class CourseScheduleII {
         // 满足返回结果
         return result.stream().mapToInt(Integer::intValue).toArray();
     }
-
-    /*
-        方法二：广度优先搜索
-            分析题目可得，课程情况为一个有向图，若想要同时完成，保证此有向图无环即可
-            因此题目转变为，判断此有向图是否有环，有环则满足题意，无环，则不满足
-     */
-    // 存储有向图
-    List<List<Integer>> edges;
-    // 存储节点的入度
-    int[] in;
-    int[] result; // 答案
-    int index; // 答案下标
-    public int[] findOrder2(int numCourses, int[][] prerequisites) {
-        edges = new ArrayList<>();
-        for (int i = 0; i < numCourses; i++) {
-            edges.add(new ArrayList<>());
-        }
-        in = new int[numCourses];
-        result = new int[numCourses];
-        index = 0;
-
-        for (int[] prerequisite : prerequisites) {
-            // 记录 p[1] -> p[0]
-            edges.get(prerequisite[0]).add(prerequisite[1]);
-            // 记录入度
-            in[prerequisite[0]]++;
-        }
-
-        Queue<Integer> queue = new LinkedList<>();
-        for (int i = 0; i < numCourses; i++) {
-            if (in[i] == 0) {
-                queue.offer(i);
-            }
-        }
-
-        while (!queue.isEmpty()) {
-            Integer poll = queue.poll();
-            result[index++] = poll; // 放入答案
-
-            for (int v : edges.get(poll)) {
-                in[v]--;
-
-            }
-        }
-
-    }
-
 }
