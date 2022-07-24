@@ -467,3 +467,6 @@
 |0564|:orange_circle:|课程表 II|<a href="https://leetcode.cn/problems/course-schedule-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day564CourseScheduleII/CourseScheduleII.java">解答</a>|
 |0565|:red_circle:|课程表 III|<a href="https://leetcode.cn/problems/course-schedule-iii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day565CourseScheduleIII/CourseScheduleIII.java">解答</a>|
 |0566|:orange_circle:|课程表 IV|<a href="https://leetcode.cn/problems/course-schedule-iv/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day566CourseScheduleIV/CourseScheduleIV.java">解答</a>|
+|0567|:orange_circle:|跳跃游戏 II|<a href="https://leetcode.cn/problems/jump-game-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day567JumpGameII/JumpGameII.java">解答</a>|
+|0568|:orange_circle:|跳跃游戏 III|<a href="https://leetcode.cn/problems/jump-game-iii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day568JumpGameIII/JumpGameIII.java">解答</a>|
+|0569|:red_circle:|跳跃游戏 IV|<a href="https://leetcode.cn/problems/jump-game-iv/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day569JumpGameIV/JumpGameIV.java">解答</a>|
