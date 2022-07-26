@@ -471,3 +471,10 @@
 |0568|:orange_circle:|跳跃游戏 III|<a href="https://leetcode.cn/problems/jump-game-iii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day568JumpGameIII/JumpGameIII.java">解答</a>|
 |0569|:red_circle:|跳跃游戏 IV|<a href="https://leetcode.cn/problems/jump-game-iv/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day569JumpGameIV/JumpGameIV.java">解答</a>|
 |0570|:orange_circle:|除法求值|<a href="https://leetcode.cn/problems/evaluate-division/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m04April/day570EvaluateDivision/EvaluateDivision.java">解答</a>|
+
+## 2022 May.
+
+|天数|难度|题目|题目链接|解答链接|
+|:--|:--|:--|:--|:--|
+|0571|:orange_circle:|把二叉搜索树转换为累加树|<a href="https://leetcode.cn/problems/convert-bst-to-greater-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day571ConvertBSTToGreaterTree/ConvertBSTToGreaterTree.java">解答</a>|
+|0572|:orange_circle:|任务调度器|<a href="https://leetcode.cn/problems/task-scheduler/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day572TaskScheduler/TaskScheduler.java">解答</a>|
