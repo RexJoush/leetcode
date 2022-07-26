@@ -48,27 +48,6 @@ import java.util.Map;
  */
 public class TaskScheduler {
 
-    public static void main(String[] args) {
-        int dividend = -2147483648;
-        int divisor = -1;
-        System.out.println(dividend < 0);
-        System.out.println(new TaskScheduler().divide(dividend, divisor));
-    }
-
-    public int divide(int dividend, int divisor) {
-        long a = 0;
-        long end = Math.abs((long) dividend);
-        long or = Math.abs((long) divisor);
-        while (end >= or) {
-            a++;
-            end -= or;
-        }
-        if (dividend < 0 && divisor < 0 || dividend > 0 && divisor > 0) {
-            return (int)a;
-        }
-        return (int)-a;
-    }
-
     /*
         此处主要讲解公式的思路
             1.举例，如果有下面任务序列
