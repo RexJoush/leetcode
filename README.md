@@ -478,3 +478,7 @@
 |:--|:--|:--|:--|:--|
 |0571|:orange_circle:|把二叉搜索树转换为累加树|<a href="https://leetcode.cn/problems/convert-bst-to-greater-tree/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day571ConvertBSTToGreaterTree/ConvertBSTToGreaterTree.java">解答</a>|
 |0572|:orange_circle:|任务调度器|<a href="https://leetcode.cn/problems/task-scheduler/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day572TaskScheduler/TaskScheduler.java">解答</a>|
+|0573|:orange_circle:|有效的数独|<a href="https://leetcode.cn/problems/valid-sudoku/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day573ValidSudoku/ValidSudoku.java">解答</a>|
+|0574|:orange_circle:|不同路径 II|<a href="https://leetcode.cn/problems/unique-paths-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day574UniquePathsII/UniquePathsII.java">解答</a>|
+|0575|:orange_circle:|三角形最小路径和|<a href="https://leetcode.cn/problems/triangle/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day575Triangle/Triangle.java">解答</a>|
+|0576|:orange_circle:|下降路径最小和|<a href="https://leetcode.cn/problems/minimum-falling-path-sum/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day576MinimumFallingPathSum/MinimumFallingPathSum.java">解答</a>|
