@@ -483,3 +483,4 @@
 |0575|:orange_circle:|三角形最小路径和|<a href="https://leetcode.cn/problems/triangle/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day575Triangle/Triangle.java">解答</a>|
 |0576|:orange_circle:|下降路径最小和|<a href="https://leetcode.cn/problems/minimum-falling-path-sum/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day576MinimumFallingPathSum/MinimumFallingPathSum.java">解答</a>|
 |0577|:red_circle:|下降路径最小和 II|<a href="https://leetcode.cn/problems/minimum-falling-path-sum-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day577MinimumFallingPathSumII/MinimumFallingPathSumII.java">解答</a>|
+|0578|:red_circle:|统计所有可行路径|<a href="https://leetcode.cn/problems/count-all-possible-routes/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day578CountAllPossibleRoutes/CountAllPossibleRoutes.java">解答</a>|
