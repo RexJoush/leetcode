@@ -73,13 +73,13 @@ public class PartitionEqualSubsetSum {
         for (int i = 1; i < n; i++) {
             for (int j = 0; j <= target; j++) {
                 // 照抄上一行
-                dp[i][j] = dp[i-1][j];
+                dp[i][j] = dp[i - 1][j];
                 if (nums[i] == j) {
                     dp[i][j] = true;
                     continue;
                 }
                 if (nums[i] < j) {
-                    dp[i][j] = dp[i-1][j] || dp[i-1][j - nums[i]];
+                    dp[i][j] = dp[i - 1][j] || dp[i - 1][j - nums[i]];
                 }
             }
             // 根据表格中，某一行为 true，那么这一行之后的所有列均为 true，
@@ -89,5 +89,35 @@ public class PartitionEqualSubsetSum {
             }
         }
         return dp[n - 1][target];
+    }
+
+    /*
+        方法二：动态规划
+            dp[j] 表示当前物品之前的值能否恰好使得和为 j
+        结果：
+            19 ms, 84.46%
+            40.8 MB, 64.95%
+     */
+    public boolean canPartition2(int[] nums) {
+        int n = nums.length;
+
+        int sum = 0;
+        // 先求和
+        for (int i : nums) {
+            sum += i;
+        }
+        if (sum % 2 == 1) {
+            return false;
+        }
+        int target = sum / 2;
+        boolean[] dp = new boolean[target + 1];
+
+        dp[0] = true; // 第一个物品不选为 0
+        for (int i = 0; i < n; i++) {
+            for (int j = target; j >= nums[i]; j--) {
+                    dp[j] = dp[j] || dp[j - nums[i]];
+            }
+        }
+        return dp[target];
     }
 }
