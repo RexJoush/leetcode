@@ -1,5 +1,7 @@
 package y2022.m04April.day545CoinChange;
 
+import java.util.Arrays;
+
 /**
  * @author Rex Joush
  * @time 2022.04.05
@@ -31,6 +33,29 @@ package y2022.m04April.day545CoinChange;
 
  */
 public class CoinChange {
+
+    /*
+        完全背包，模板即可
+        结果：
+            10 ms, 97.76%
+            40.9 MB, 72.98%
+     */
+    public int coinChange2(int[] coins, int amount) {
+        int n = coins.length;
+
+        int[] dp = new int[amount + 1];
+        Arrays.fill(dp, Integer.MAX_VALUE);
+        // 初始情况什么都没有，只能找到总价值为 0 的方案
+        dp[0] = 0;
+
+        for (int i = 0; i < n; i++) {
+            for (int j = coins[i]; j <= amount; j++) {
+                dp[j] = Math.min(dp[j], dp[j - coins[i]] + 1);
+            }
+        }
+        // 如果依然等于最大值，说明没被更新，即不满足，返回 -1
+        return dp[amount] == Integer.MAX_VALUE ? -1 : dp[amount];
+    }
 
     /*
         完全背包，恰好装满问题

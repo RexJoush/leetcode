@@ -1,5 +1,7 @@
 package y2021.m03March.day175PerfectSquares;
 
+import java.util.Arrays;
+
 /**
  * @author Rex Joush
  * @time 2021.03.31
@@ -28,6 +30,38 @@ package y2021.m03March.day175PerfectSquares;
  */
 public class PerfectSquares {
 
+    /*
+        完全背包
+        题意可抽象为如下情况
+            value[] = {1, 1, 1, 1, ..., 1}
+            weight[] = {1, 4, 9, 16, ..., 10000}
+            limit = n;
+        即，每个数字的价值都是 1，重量为自己的值，求背包恰好装满时，最小的价值
+        结果：
+            24 ms, 74.70%
+            40.6 MB, 60.47%
+     */
+    public int numSquares3(int n) {
+        int[] weight = new int[100];
+
+        for (int i = 1; i <= 100; i++) {
+            weight[i - 1] = i * i;
+        }
+        int[] dp = new int[n + 1];
+        // 求解最小值，所以填满最大值
+        Arrays.fill(dp, Integer.MAX_VALUE);
+        // 起始情况为 0，表示，什么数字也没有，只能找到总和为 0 的方案
+        dp[0] = 0;
+
+        for (int i = 0; i < weight.length; i++) {
+            for (int j = weight[i]; j <= n; j++) {
+                // 求较小值
+                dp[j] = Math.min(dp[j], dp[j - weight[i]] + 1);
+            }
+        }
+        return dp[n];
+    }
+
     public int numSquares2(int n) {
         int[] weight = new int[100];
 
@@ -51,6 +85,7 @@ public class PerfectSquares {
 
         return dp[n];
     }
+
     /*
         动态规划，背包问题
      */

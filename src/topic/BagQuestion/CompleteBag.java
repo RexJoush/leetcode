@@ -11,10 +11,10 @@ package topic.BagQuestion;
 public class CompleteBag {
 
     public static void main(String[] args) {
-        int[] value = new int[]{1,2};
-        int[] weight = new int[]{1,2};
+        int[] value = new int[]{1, 2};
+        int[] weight = new int[]{1, 2};
         int limit = 5;
-        System.out.println(new CompleteBag().maxValue(limit, value, weight));
+        System.out.println(new CompleteBag().maxValue2(limit, value, weight));
     }
 
     /*
@@ -35,21 +35,37 @@ public class CompleteBag {
         // 第一件物品
         for (int j = 0; j <= limit; j++) {
             int v = j / weight[0]; // 能够拿几个
-            dp[0][j] = value[j] * v;
+            dp[0][j] = value[0] * v;
         }
 
         for (int i = 1; i < n; i++) {
             for (int j = 0; j <= limit; j++) {
                 int k = 0;
                 int max = 0;
-                while (k * value[i] <= j) {
+                while (k * weight[i] <= j) {
+                    max = Math.max(dp[i - 1][j - k * weight[i]], max);
                     k++;
-                    max = Math.max(dp[i-1][j-k * weight[i]], max);
                 }
-                dp[i][j] = Math.max(dp[i-1][j], max);
+                dp[i][j] = Math.max(dp[i - 1][j], max);
             }
         }
         return dp[n - 1][limit];
     }
+
+    /*
+        空间优化后的 dp，总结的结论就是，0-1 背包从后往前算，完全背包从前往后算
+     */
+    public int maxValue2(int limit, int[] value, int[] weight) {
+        int n = value.length;
+        int[] dp = new int[limit + 1];
+
+        for (int i = 0; i < n; i++) {
+            for (int j = weight[i]; j <= limit; j++) {
+                dp[j] = Math.max(dp[j], dp[j-weight[i]] + value[i]);
+            }
+        }
+        return dp[limit];
+    }
+
 
 }
