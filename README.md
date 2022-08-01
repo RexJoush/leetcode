@@ -485,3 +485,4 @@
 |0577|:red_circle:|下降路径最小和 II|<a href="https://leetcode.cn/problems/minimum-falling-path-sum-ii/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day577MinimumFallingPathSumII/MinimumFallingPathSumII.java">解答</a>|
 |0578|:red_circle:|统计所有可行路径|<a href="https://leetcode.cn/problems/count-all-possible-routes/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day578CountAllPossibleRoutes/CountAllPossibleRoutes.java">解答</a>|
 |0579|:orange_circle:|出界的路径数|<a href="https://leetcode.cn/problems/out-of-boundary-paths/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day579OutOfBoundaryPaths/OutOfBoundaryPaths.java">解答</a>|
+|0580|:red_circle:|最大得分的路径数目|<a href="https://leetcode.cn/problems/number-of-paths-with-max-score/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day580NumberOfPathsWithMaxScore/NumberOfPathsWithMaxScore.java">解答</a>|
