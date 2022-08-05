@@ -1,4 +1,4 @@
-package topic.BagQuestion;
+package topic.BackpackQuestion;
 
 /**
  * @author Rex Joush
@@ -8,13 +8,13 @@ package topic.BagQuestion;
 /*
     完全背包，即一件物品可拿多次
  */
-public class CompleteBag {
+public class CompleteBackpack {
 
     public static void main(String[] args) {
         int[] value = new int[]{1, 2};
         int[] weight = new int[]{1, 2};
         int limit = 5;
-        System.out.println(new CompleteBag().maxValue2(limit, value, weight));
+        System.out.println(new CompleteBackpack().maxValue2(limit, value, weight));
     }
 
     /*

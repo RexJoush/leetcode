@@ -1,4 +1,4 @@
-package topic.BagQuestion;
+package topic.BackpackQuestion;
 
 /**
  * @author Rex Joush
@@ -8,14 +8,14 @@ package topic.BagQuestion;
 /*
     多重背包，每个物品可拿 time 次
  */
-public class MultipleBag {
+public class MultipleBaackpack {
 
     public static void main(String[] args) {
         int[] value = new int[]{1, 2};
         int[] weight = new int[]{1, 2};
         int[] times = new int[]{2, 1};
         int limit = 5;
-        System.out.println(new MultipleBag().getMax2(value, weight, times, limit));
+        System.out.println(new MultipleBaackpack().getMax2(value, weight, times, limit));
     }
 
     /*

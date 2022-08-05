@@ -1,4 +1,4 @@
-package topic.BagQuestion;
+package topic.BackpackQuestion;
 
 /**
  * @author Rex Joush
@@ -9,7 +9,7 @@ package topic.BagQuestion;
     0-1 基础背包
 
  */
-public class ZeroOneBag {
+public class ZeroOneBaackpack {
 
     public static void main(String[] args) {
         int[] value = new int[]{4, 2, 3};
@@ -17,7 +17,7 @@ public class ZeroOneBag {
 
         int limit = 4;
 
-        System.out.println(new ZeroOneBag().maxValue2(value, weight, limit));
+        System.out.println(new ZeroOneBaackpack().maxValue2(value, weight, limit));
     }
 
     /*

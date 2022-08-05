@@ -1,4 +1,4 @@
-package topic.BagQuestion;
+package topic.BackpackQuestion;
 
 /**
  * @author Rex Joush
@@ -10,6 +10,9 @@ package topic.BagQuestion;
  */
 public class PartitionEqualSubsetSum {
 
+    /*
+        01 背包
+     */
     public boolean canPartition(int[] nums) {
         int n = nums.length;
 

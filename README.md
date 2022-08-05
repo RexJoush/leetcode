@@ -487,3 +487,4 @@
 |0579|:orange_circle:|出界的路径数|<a href="https://leetcode.cn/problems/out-of-boundary-paths/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day579OutOfBoundaryPaths/OutOfBoundaryPaths.java">解答</a>|
 |0580|:red_circle:|最大得分的路径数目|<a href="https://leetcode.cn/problems/number-of-paths-with-max-score/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day580NumberOfPathsWithMaxScore/NumberOfPathsWithMaxScore.java">解答</a>|
 |0581|:orange_circle:|零钱兑换 II|<a href="https://leetcode.cn/problems/coin-change-2/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day581CoinChange2/CoinChange2.java">解答</a>|
+|0582|:orange_circle:|掷骰子的N种方法|<a href="https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day582NumberOfDiceRollsWithTargetSum/NumberOfDiceRollsWithTargetSum.java">解答</a>|
