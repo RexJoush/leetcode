@@ -36,6 +36,84 @@ package y2022.m04April.day560TargetSum;
 public class TargetSum {
 
     /*
+        方法三：优化的 0-1 背包
+        假设最终的方案中，所有的负数的和的绝对值为 m
+        那么满足 target 的情况即满足下面等式
+            (s - m) - m = s - 2 * m = target
+        即
+            m = (s - target) / 2
+        那么问题就转换为，在 nums 中，选则一些数，使得他们的和为 m 的方案数，那么就是基础的背包问题了
+        结果：
+            4 ms, 54.41%
+            41.3 MB, 15.10%
+     */
+    public int findTargetSumWays3(int[] nums, int target) {
+        int n = nums.length;
+        int s = 0;
+        for (int num : nums) {
+            s += Math.abs(num);
+        }
+        // 无法满足的情况
+        if (Math.abs(target) > s || (s - target) % 2 != 0) {
+            return 0;
+        }
+        int m = (s - target) / 2;
+        int[][] dp = new int[n + 1][m + 1];
+        dp[0][0] = 1;
+        for (int i = 1; i <= n; i++) {
+            for (int j = 0; j <= m; j++) {
+                // 不选当前数字
+                dp[i][j] += dp[i - 1][j];
+                // 可选当前数字
+                if (j >= nums[i - 1]) {
+                    dp[i][j] += dp[i - 1][j - nums[i - 1]];
+                }
+            }
+        }
+        return dp[n][m];
+    }
+
+    /*
+        方法二：0-1 背包问题求方案数
+        定义 dp[i][j] 表示前 i 个数当前计算结果为 j 的方案数
+        起始情况，不考虑任何数，计算结果为 0 的方案数有 1 种
+            dp[0][0] = 1
+        那么对于 第 i 个值有两种情况
+            dp[i][j] = dp[i-1][j-nums[i-1]] + dp[i-1][j+nums[i-1]]
+        对于 j，范围为 [-sum, sum] 因此在开辟空间时，需要开辟双倍的空间,同时做好数据偏移
+        结果：
+            11 ms, 43.35%
+            41.6 MB, 8.41%
+     */
+    public int findTargetSumWays2(int[] nums, int target) {
+        int n = nums.length;
+        int s = 0;
+        for (int num : nums) {
+            s += Math.abs(num);
+        }
+        // 无法满足，返回 0
+        if (Math.abs(target) > s) {
+            return 0;
+        }
+
+        int[][] dp = new int[n + 1][s * 2 + 1];
+        dp[0][s] = 1;
+        for (int i = 1; i <= n; i++) {
+            for (int j = -s; j <= s; j++) {
+                // 负值的部分
+                if (j - nums[i - 1] + s >= 0) {
+                    dp[i][j + s] += dp[i - 1][j - nums[i - 1] + s];
+                }
+                // 正值的部分
+                if (j + nums[i - 1] + s <= 2 * s) {
+                    dp[i][j + s] += dp[i - 1][j + nums[i - 1] + s];
+                }
+            }
+        }
+        return dp[n][s + target];
+    }
+
+    /*
         方法一：回溯法
             遍历所有的情况，计算可能的结果
         结果：

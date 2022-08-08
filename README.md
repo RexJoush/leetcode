@@ -489,3 +489,4 @@
 |0581|:orange_circle:|零钱兑换 II|<a href="https://leetcode.cn/problems/coin-change-2/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day581CoinChange2/CoinChange2.java">解答</a>|
 |0582|:orange_circle:|掷骰子的N种方法|<a href="https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day582NumberOfDiceRollsWithTargetSum/NumberOfDiceRollsWithTargetSum.java">解答</a>|
 |0583|:orange_circle:|一和零|<a href="https://leetcode.cn/problems/ones-and-zeroes/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day583OnesAndZeroes/OnesAndZeroes.java">解答</a>|
+|0584|:red_circle:|盈利计划|<a href="https://leetcode.cn/problems/profitable-schemes/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day584ProfitableSchemes/ProfitableSchemes.java">解答</a>|
