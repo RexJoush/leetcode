@@ -492,4 +492,4 @@
 |0584|:red_circle:|盈利计划|<a href="https://leetcode.cn/problems/profitable-schemes/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day584ProfitableSchemes/ProfitableSchemes.java">解答</a>|
 |0585|:red_circle:|数位成本和为目标值的最大数字|<a href="https://leetcode.cn/problems/form-largest-integer-with-digits-that-add-up-to-target/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day585FormLargestIntegerToTarget/FormLargestIntegerToTarget.java">解答</a>|
 |0586|:orange_circle:|层数最深叶子节点的和|<a href="https://leetcode.cn/problems/deepest-leaves-sum/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day586DeepestLeavesSum/DeepestLeavesSum.java">解答</a>|
-|0587|:orange_circle:|砖墙|<a href="https://leetcode.cn/problems/brick-wall/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day588BrickWall/BrickWall.java">解答</a>|
+|0587|:orange_circle:|砖墙|<a href="https://leetcode.cn/problems/brick-wall/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day587BrickWall/BrickWall.java">解答</a>|
