@@ -493,3 +493,4 @@
 |0585|:red_circle:|数位成本和为目标值的最大数字|<a href="https://leetcode.cn/problems/form-largest-integer-with-digits-that-add-up-to-target/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day585FormLargestIntegerToTarget/FormLargestIntegerToTarget.java">解答</a>|
 |0586|:orange_circle:|层数最深叶子节点的和|<a href="https://leetcode.cn/problems/deepest-leaves-sum/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day586DeepestLeavesSum/DeepestLeavesSum.java">解答</a>|
 |0587|:orange_circle:|砖墙|<a href="https://leetcode.cn/problems/brick-wall/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day587BrickWall/BrickWall.java">解答</a>|
+|0588|:orange_circle:|行星碰撞|<a href="https://leetcode.cn/problems/asteroid-collision/">题目</a>|<a href="https://github.com/RexJoush/leetcode/blob/master/src/y2022/m05May/day588AsteroidCollision/AsteroidCollision.java">解答</a>|
